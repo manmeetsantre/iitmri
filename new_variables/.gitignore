@@ -1,0 +1,12 @@
+# Yelp-derived per-restaurant panel data — NOT redistributable (Yelp ToS) and too large
+# for GitHub (100MB limit). These live in the shared Drive, not in this repo.
+LATEST_*_FULL_DATA.csv
+LATEST_t_data_*.RData
+Yelp JSON/
+yelp_dataset*
+*.tar
+
+# python cache / OS cruft
+__pycache__/
+*.pyc
+.DS_Store

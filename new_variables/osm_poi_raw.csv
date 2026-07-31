@@ -1,0 +1,1852 @@
+city,category,name,latitude,longitude,osm_type,osm_id
+Tucson,museum,Museum of Art,32.2355764,-110.955811,node,407919783
+Tucson,museum,Arizona Historical Society Downtown Museum,32.2237005,-110.971271,node,4414001868
+Tucson,attraction,A10 Thunderbolt,32.1868159,-110.8745186,node,4663097738
+Tucson,attraction,,32.1866041,-110.8746688,node,4663097739
+Tucson,attraction,F4 Phantom,32.1863923,-110.8744836,node,4663097740
+Tucson,attraction,,32.1862948,-110.8742483,node,4663097741
+Tucson,attraction,,32.1863923,-110.8740181,node,4663097742
+Tucson,attraction,C 130,32.1860274,-110.8721207,node,4663098124
+Tucson,attraction,U2,32.1853627,-110.8747944,node,4663098125
+Tucson,attraction,,32.1855915,-110.872365,node,4663098126
+Tucson,attraction,O1 Bird Dog,32.1863203,-110.8718185,node,4663098128
+Tucson,attraction,OV 10 Bronco,32.1862292,-110.8716416,node,4663098129
+Tucson,attraction,,32.1797587,-110.8574831,node,4663162548
+Tucson,attraction,,32.2260933,-110.9747165,node,6139474286
+Tucson,university,University of Phoenix,32.2178338,-110.875869,node,7998330649
+Tucson,attraction,Community Mural,32.216114,-110.9740562,node,8443948918
+Tucson,attraction,Selena Mural,32.2040575,-110.9652203,node,8443949023
+Tucson,attraction,Goddess of Agave,32.2275423,-110.9699838,node,8443949024
+Tucson,attraction,La Pilita Mural,32.2159292,-110.9744817,node,8443949328
+Tucson,attraction,Mural No tell Motel,32.2519139,-110.9783948,node,8443949329
+Tucson,attraction,Butterfly Mural,32.2252185,-110.9653008,node,8443950319
+Tucson,attraction,Water Harvesting Feature,32.2481461,-110.9080915,node,9077643496
+Tucson,attraction,Zen Garden Ramada,32.2479913,-110.9085924,node,9077961444
+Tucson,attraction,Wildlife/Woodlands Ramada,32.2479697,-110.9085153,node,9077961445
+Tucson,attraction,Floral Patio,32.2479845,-110.90841,node,9077961446
+Tucson,attraction,Kitchen Courtyard,32.2479709,-110.9083007,node,9077961447
+Tucson,attraction,Cactus and Succulent Ramada,32.247976,-110.9081901,node,9077961448
+Tucson,attraction,Chrysalis Exhibit,32.2479987,-110.9089434,node,9077961449
+Tucson,attraction,Cattletank History Wall,32.248008,-110.9093133,node,9077961463
+Tucson,attraction,Sig Boysen Home Composting Site,32.248736,-110.9076771,node,9078198742
+Tucson,attraction,Rio Grande Steel Sided Caboose 01433,32.2792523,-111.0106113,node,9950244877
+Tucson,museum,Tucson Desert Art Museum,32.2499355,-110.8418881,node,10577042439
+Tucson,attraction,F86,32.1761295,-110.8829404,node,10665391032
+Tucson,park,Malvern Plaza,32.2164408,-110.9324795,node,11261235413
+Tucson,attraction,The Great Garden Express,32.2484223,-110.9089613,node,13243325341
+Tucson,museum,Presidio San Agustin Del Tucson,32.2242445,-110.9737999,node,13612645947
+Tucson,park,Agua Nueva Park,32.280674,-111.0271196,node,13979593033
+Tucson,stadium,Arizona Stadium,32.228856,-110.9487789,way,31791120
+Tucson,park,Linden Park,32.2170525,-110.8961697,way,31856877
+Tucson,university,Mathematics East,32.2291064,-110.9526111,way,32929446
+Tucson,park,The Main Mall,32.2319054,-110.9462443,way,32929786
+Tucson,park,Highland Quad,32.2289797,-110.952032,way,32930202
+Tucson,museum,Arizona State Museum South,32.2312162,-110.956103,way,32942742
+Tucson,museum,Arizona State Museum,32.2325207,-110.9557594,way,32974694
+Tucson,stadium,Hillenbrand Stadium,32.2333536,-110.9460005,way,33077192
+Tucson,university,Steele MCRC,32.2405537,-110.9464598,way,34197116
+Tucson,university,Steele Children's Research Center,32.2402901,-110.9460883,way,34197122
+Tucson,university,Pharmacy,32.2390658,-110.9463368,way,34197140
+Tucson,university,Medical Research Building,32.2383236,-110.9474496,way,34287101
+Tucson,university,Thomas W. Keating Bioresearch,32.2377188,-110.9473139,way,34287167
+Tucson,university,Rountree Hall,32.2368954,-110.9527366,way,34288621
+Tucson,university,Visual Arts Graduate Research Laboratory,32.2382712,-110.9556739,way,34319012
+Tucson,museum,Tucson Museum of Art,32.223431,-110.9749746,way,34616884
+Tucson,museum,La Casa Cordova,32.2239066,-110.9747187,way,34616930
+Tucson,park,El Presidio Plaza,32.2229361,-110.9738409,way,34617070
+Tucson,attraction,,32.2233744,-110.9747566,way,34625474
+Tucson,park,Plaza de la Mesilla,32.221033,-110.9733588,way,34689265
+Tucson,museum,Old Pueblo Trolley Barn,32.2248991,-110.9661556,way,34689625
+Tucson,museum,Tucson Children's Museum,32.219191,-110.9692376,way,34690363
+Tucson,park,Armory Park,32.2192335,-110.9678058,way,34690681
+Tucson,park,Geronimo Center,32.231419,-110.9588698,way,34817334
+Tucson,stadium,Tucson Arena,32.2182832,-110.9736953,way,34838582
+Tucson,university,Undergraduate Law Program,32.2375194,-110.9527291,way,34865232
+Tucson,university,Economic Development,32.2380794,-110.9535389,way,34865257
+Tucson,university,ARL Annex,32.2380831,-110.9526935,way,34865271
+Tucson,university,Program in Integrative Medicine,32.2384388,-110.952745,way,34865275
+Tucson,university,Udall Center for Studies in Public Policy,32.2382086,-110.952965,way,34865290
+Tucson,university,,32.2376475,-110.9522171,way,34865372
+Tucson,university,,32.237564,-110.9519253,way,34865403
+Tucson,university,,32.2378689,-110.9519425,way,34865407
+Tucson,university,,32.2378616,-110.9522214,way,34865433
+Tucson,university,Art Works A,32.2375607,-110.9495634,way,34865636
+Tucson,university,Art Works B,32.2375865,-110.949421,way,34865639
+Tucson,university,Art Works C,32.2375649,-110.9492704,way,34865642
+Tucson,university,Sonoran UCEDD,32.2376011,-110.9490258,way,34865645
+Tucson,university,,32.2376017,-110.9487707,way,34865657
+Tucson,university,,32.2376198,-110.9484451,way,34865662
+Tucson,university,Hazardous & Radioactive Waste Storage,32.2417444,-110.9488325,way,34865921
+Tucson,university,,32.2417418,-110.9483503,way,34865938
+Tucson,university,,32.2411093,-110.9489374,way,34865942
+Tucson,university,,32.2410888,-110.9483436,way,34865958
+Tucson,university,Physiology,32.2388959,-110.9489327,way,34990181
+Tucson,university,Family & Community Medicine,32.2388705,-110.9487697,way,34990202
+Tucson,university,Coph-Drachman House,32.2393857,-110.9487913,way,34990265
+Tucson,university,,32.2423225,-110.9494777,way,34990383
+Tucson,university,Facilities Management Warehouse,32.2429504,-110.9494091,way,34990416
+Tucson,university,,32.2435203,-110.9495421,way,34990532
+Tucson,university,,32.2434804,-110.949186,way,34990539
+Tucson,university,,32.2434694,-110.9490143,way,34990551
+Tucson,university,,32.2434948,-110.9485036,way,34990560
+Tucson,park,Iron Horse Park,32.2220339,-110.9624398,way,34993800
+Tucson,park,Jardin de Caesar Chavez,32.2124798,-110.9691445,way,35023305
+Tucson,park,Gene C. Reid Park,32.2106695,-110.9222757,way,35070400
+Tucson,zoo,Reid Park Zoo,32.2086402,-110.9202126,way,35070707
+Tucson,park,Estevan Park,32.2346923,-110.979665,way,36888082
+Tucson,park,Chuck Ford Lakeside Park,32.1881294,-110.8188957,way,38133434
+Tucson,park,Lincoln Regional Park,32.1700627,-110.8153743,way,38268818
+Tucson,mall,Park Place Mall,32.2192482,-110.8656657,way,38313075
+Tucson,mall,Tucson Mall,32.2891662,-110.9741893,way,38314458
+Tucson,museum,Southern Arizona Transportation Museum,32.223718,-110.9673459,way,42342366
+Tucson,park,Sweetwater Wetlands,32.2777025,-111.0241381,way,44935041
+Tucson,park,The Main Mall,32.2318959,-110.9503087,way,50619003
+Tucson,park,Mitchell Park,32.2554062,-110.9546303,way,66225807
+Tucson,university,Udall Center for Studies in Public Policy West,32.2345899,-110.9591381,way,67339177
+Tucson,university,Natural Resources Wildlife Program,32.2252877,-110.9552176,way,67355495
+Tucson,stadium,McKale Memorial Center,32.2304676,-110.9459957,way,113835570
+Tucson,park,Waverly Circle Park,32.2454965,-110.9414289,way,117683642
+Tucson,park,Tahoe Park,32.2482617,-110.941996,way,117684030
+Tucson,park,Jefferson Park,32.2473392,-110.9465044,way,117694061
+Tucson,park,Bravo Park,32.16948,-110.9510144,way,117767654
+Tucson,park,LaMadera Park,32.2594605,-110.9310615,way,118410642
+Tucson,park,Conner Park,32.2571247,-110.9398455,way,118410643
+Tucson,museum,390th Memorial Museum,32.1397761,-110.8680476,way,118506486
+Tucson,museum,Pima Air & Space Museum,32.1378709,-110.8677838,way,118506489
+Tucson,park,Doris J. Thompson Park,32.2477477,-110.9673006,way,152840731
+Tucson,park,Swanway Park,32.2353106,-110.8894221,way,160108211
+Tucson,park,James C Thomas Park,32.1860157,-110.9313705,way,160220805
+Tucson,park,Swan Park,32.2019628,-110.894525,way,162853348
+Tucson,park,Villa Serena Park,32.2449101,-110.8649731,way,182260988
+Tucson,park,Himmel Park,32.2336253,-110.933228,way,188425421
+Tucson,park,De Anza Park,32.2350774,-110.9710355,way,188426015
+Tucson,park,Toumey Park,32.2109253,-110.8963262,way,193045605
+Tucson,park,Joaquin Murrieta Park,32.2417601,-111.0051324,way,225335466
+Tucson,park,Pinecrest Park,32.2394694,-110.8889128,way,229024466
+Tucson,park,Burns Park,32.2250891,-110.891406,way,229485298
+Tucson,park,Desert Aire Park,32.2122796,-110.8785373,way,229488734
+Tucson,mall,,32.2497213,-110.9078739,way,229489852
+Tucson,park,McCormick Park,32.2611247,-110.8997202,way,229521440
+Tucson,park,Grant and Campbell Park,32.2502592,-110.9449574,way,229522277
+Tucson,mall,,32.2717102,-110.9457518,way,229550360
+Tucson,mall,,32.2874081,-110.9658221,way,229559668
+Tucson,park,Jacobs Park,32.268475,-110.9887642,way,229563312
+Tucson,park,Mehl Foothills Park,32.2758236,-110.9062489,way,229569560
+Tucson,park,North Sixth Avenue Dog Park,32.2467189,-110.9692053,way,229587726
+Tucson,mall,,32.2506391,-110.9435652,way,229629771
+Tucson,mall,,32.2661631,-110.943268,way,229650422
+Tucson,mall,,32.2077322,-110.9021202,way,229822324
+Tucson,park,Fort Lowell Park,32.2597924,-110.8712714,way,230173978
+Tucson,park,Alvernon Park,32.2308111,-110.9077659,way,230174108
+Tucson,mall,,32.2368297,-110.894547,way,230395074
+Tucson,park,Morris K. Udall Park,32.2466966,-110.8365218,way,230396809
+Tucson,park,Hoffman Park,32.2170309,-110.8878018,way,230615519
+Tucson,mall,,32.2512134,-110.8876807,way,230776952
+Tucson,mall,,32.2518506,-110.8910508,way,230776960
+Tucson,mall,,32.251586,-110.8898885,way,230776965
+Tucson,park,Navajo Park,32.2662654,-110.9627561,way,230908685
+Tucson,park,Rio Vista Natural Resources Park,32.2794659,-110.9332576,way,231404911
+Tucson,park,Sears Park,32.2189565,-110.8654954,way,232233478
+Tucson,park,Catalina Park,32.2336152,-110.9664268,way,232246152
+Tucson,park,Highland Vista Park,32.2255145,-110.8794397,way,233336610
+Tucson,park,Jesse Owens Park,32.2157504,-110.8163211,way,233913369
+Tucson,university,Laboratory of Tree-Ring Research,32.2289642,-110.9524996,way,234728716
+Tucson,museum,H. H. Franklin Auto Museum,32.2694772,-110.9495415,way,236507294
+Tucson,mall,,32.2852467,-110.979996,way,240575020
+Tucson,theme_park,Funtasticks,32.2875053,-110.9683112,way,240591239
+Tucson,park,Jacobs Park Soccer Complex,32.2696258,-110.9855811,way,240776790
+Tucson,theme_park,Golf 'n Stuff,32.2464962,-110.8547779,way,240893822
+Tucson,park,Limberlost Family Park,32.2836364,-110.9665259,way,240895480
+Tucson,park,Rillito Park and Racetrack,32.2906291,-110.9566171,way,243738218
+Tucson,park,Parkview Park,32.2039474,-110.9140753,way,243875476
+Tucson,park,Felix Lucero Garden of Gethsemane,32.2209382,-110.9823978,way,244109834
+Tucson,park,Freedom Park,32.1978103,-110.8858876,way,245599453
+Tucson,park,Todd M. Harris Sports Complex,32.1942618,-110.8807311,way,245599454
+Tucson,park,Tierra del Sol Park,32.1974795,-110.8485976,way,253413608
+Tucson,park,Purple Heart Park,32.1031395,-110.784388,way,271787835
+Tucson,park,Hacienda Del Oro Park,32.0985033,-110.7794509,way,273814630
+Tucson,museum,The Mini Time Machine Museum,32.2657321,-110.8955336,way,275869011
+Tucson,attraction,Barrio Histórico District,32.2160139,-110.972583,way,276161742
+Tucson,park,Mission Park,32.1444199,-110.9797754,way,286360610
+Tucson,park,Michael Perry Park,32.1889189,-110.80454,way,315560933
+Tucson,park,Mesa Village Park,32.2117366,-110.8710028,way,316215499
+Tucson,park,Wilshire Heights Park,32.2161789,-110.8732475,way,316215500
+Tucson,park,Keeling Desert Park,32.2580385,-110.9688364,way,318346003
+Tucson,park,Silverlake Park,32.1960607,-110.9498538,way,320349644
+Tucson,park,Mirasol Park,32.2001769,-110.9533816,way,320349681
+Tucson,park,Juhan Park,32.2550956,-111.0024838,way,326532275
+Tucson,park,Rolling Hills Park,32.1980336,-110.8040996,way,336596122
+Tucson,park,Pima Prickly Park,32.3145375,-111.0392645,way,344769191
+Tucson,park,Tucson Radio Control Club,32.1200744,-110.76232,way,348383316
+Tucson,stadium,,32.1343953,-110.8729893,way,383783652
+Tucson,stadium,,32.134541,-110.8730266,way,383783653
+Tucson,stadium,,32.1343591,-110.872832,way,383783658
+Tucson,stadium,,32.1366846,-110.8742917,way,383783665
+Tucson,park,Rudy Garcia Park,32.1603316,-110.9658187,way,387116138
+Tucson,park,El Paso and Southwestern Greenway,32.2161425,-110.9780008,way,398118932
+Tucson,park,El Paso and Southwestern Greenway,32.2256153,-110.9805345,way,398120175
+Tucson,park,Sarah Ann Miller Park,32.152602,-111.00219,way,427552421
+Tucson,park,Grijalva Park,32.1471189,-111.0059821,way,427552435
+Tucson,park,El Pueblo Park,32.1608524,-110.9694756,way,435082308
+Tucson,park,Escalante Park,32.1800436,-110.8443126,way,437225932
+Tucson,park,Vista del Prado Park,32.1838645,-110.8459461,way,437225933
+Tucson,park,Roy Schoonover Trailhead,32.1153062,-110.8400848,way,437230400
+Tucson,museum,Gadsden-Pacific Division Toy Train Operating Museum,32.2797137,-111.0106557,way,441860663
+Tucson,park,Jácome Plaza,32.2233501,-110.9721528,way,443867011
+Tucson,park,Francisco Elias Esquer Park,32.2398743,-110.9810665,way,448415159
+Tucson,park,San Paulo Village Park,32.204159,-110.8625758,way,461498019
+Tucson,park,Desert Shadows Park,32.1605571,-110.9398156,way,462246049
+Tucson,park,Manuel Herrera Junior Park,32.1450633,-110.9722048,way,462246050
+Tucson,park,Laguna Park,32.2581318,-110.975419,way,463034007
+Tucson,park,Balboa Heights Park,32.2532305,-110.9735405,way,463034008
+Tucson,park,Jacinto Park,32.2543727,-110.9827745,way,463034048
+Tucson,park,Manuel Valenzuela Alvarez Park,32.2460401,-110.9840631,way,463034111
+Tucson,park,Menlo Park,32.2263595,-110.9908617,way,463126485
+Tucson,park,Bonita Park,32.2218888,-110.9825047,way,463126486
+Tucson,attraction,"The big ""A""",32.2106344,-110.991712,way,464194199
+Tucson,park,Harold Bell Wright Park,32.2289234,-110.8561441,way,483576387
+Tucson,park,Midvale Fitness Park,32.1395885,-110.9996442,way,487080188
+Tucson,park,Sierra Morado Community Center,32.1460838,-110.7636683,way,488341526
+Tucson,park,Sculpture Garden,32.2353022,-110.9553061,way,491267097
+Tucson,museum,J. Knox Corbett House,32.2239239,-110.9754396,way,529116792
+Tucson,park,Meadow Park,32.1619548,-110.9537017,way,553350529
+Tucson,park,Bristol Park,32.2014679,-110.9322638,way,562070055
+Tucson,park,Santa Cruz River Park,32.2418759,-110.9893175,way,569146498
+Tucson,park,Binghampton Family Park,32.2700667,-110.9123119,way,569491695
+Tucson,attraction,Miracle Mile Historic District,32.2442954,-110.9802768,way,619557591
+Tucson,museum,Ignite Sign Art Museum,32.2181449,-110.9406543,way,633129172
+Tucson,attraction,Tucson Presidio,32.2243716,-110.9734972,way,663682559
+Tucson,attraction,Snob Hollow,32.2255757,-110.9762849,way,663694042
+Tucson,park,Stevens Plaza,32.2236754,-110.9659295,way,668785124
+Tucson,park,Willie Blake Junior Community Park,32.1834774,-110.9380673,way,715469159
+Tucson,university,Bioscience Research Laboratories,32.2380012,-110.9479018,way,725309136
+Tucson,park,Verdugo Park,32.2108707,-110.9840795,way,738408973
+Tucson,park,Butterfly Park,32.2552957,-110.9206796,way,777554627
+Tucson,park,Barrio San Antonio Park,32.2163338,-110.9531901,way,790569638
+Tucson,park,Escalante Park,32.1790587,-110.8449162,way,822688514
+Tucson,park,Hoffman Mini Park,32.2152065,-110.8871266,way,830612358
+Tucson,park,Country Club Annex Park,32.195319,-110.9212151,way,837278075
+Tucson,park,Pueblo Grande Park,32.193443,-110.9339461,way,845178392
+Tucson,park,Pueblo Gardens Park,32.1934727,-110.9340359,way,845178393
+Tucson,park,Street Scene Park,32.1889549,-110.9593945,way,845239711
+Tucson,park,Bristol Park,32.2204866,-110.778742,way,845278879
+Tucson,park,Thomas Jay Regional Park,32.136503,-110.871001,way,870597401
+Tucson,stadium,Kino North Stadium,32.1801693,-110.9276371,way,871061880
+Tucson,stadium,Kino North Grand Stand,32.1814306,-110.9286337,way,871061908
+Tucson,park,Veterans Memorial Plaza,32.1785486,-110.9313259,way,871070109
+Tucson,park,Ormsby Park,32.204005,-110.9835918,way,885363294
+Tucson,park,Southeast Houghton Area Recharge Project,32.1467119,-110.7823566,way,892528634
+Tucson,university,Grand Canyon University,32.2708738,-110.9433162,way,897721879
+Tucson,stadium,Kino Veterans Memorial Stadium,32.1768059,-110.9332929,way,907083650
+Tucson,park,San Juan Park,32.2013391,-111.0095556,way,970230224
+Tucson,attraction,Oasis Raspados Mural,32.1742983,-110.9778357,way,973885341
+Tucson,park,Mariposa Park,32.1725115,-110.9640071,way,978883261
+Tucson,museum,Postal History Foundation,32.2337172,-110.9606984,way,985197155
+Tucson,park,Seminole Park,32.2310906,-110.9994323,way,1015100805
+Tucson,park,Cherokee Avenue Park,32.2340935,-110.9971618,way,1015105606
+Tucson,park,Riverview Park,32.2426531,-110.9915415,way,1051725352
+Tucson,university,West Campus Agricultural Center,32.2585527,-111.0031404,way,1053665819
+Tucson,university,,32.2624838,-110.8910435,way,1053665823
+Tucson,park,Vista del Rio Park,32.2624989,-110.8303054,way,1053691833
+Tucson,park,Las Milpitas de Cottonwood Community Farm,32.1938973,-110.9897296,way,1056245265
+Tucson,park,Sam Lena Recreation Area,32.1826748,-110.929977,way,1056700192
+Tucson,park,Desert Haven Natural Resource Park,32.1904177,-110.9446983,way,1056700205
+Tucson,park,Santa Rosa Park,32.2097017,-110.973503,way,1056953207
+Tucson,park,El Parque de San Cosme,32.2156532,-110.9773002,way,1056989067
+Tucson,park,Rosendo S. Perez Park,32.2160167,-110.9747009,way,1056989079
+Tucson,park,Parque de Orlando y Diego Mendoza,32.2122585,-110.971891,way,1056989101
+Tucson,park,Carmelin Castro Ítom Usím Children's Park,32.1888437,-110.976055,way,1057245423
+Tucson,park,Julian Wash Greenway,32.1890225,-110.9795252,way,1057245425
+Tucson,park,Sentinel Plaza Gateway Park,32.2217179,-110.9812502,way,1057272634
+Tucson,park,Sunset Park,32.2229298,-110.9748733,way,1057676431
+Tucson,park,Castle Rock Park,32.2489936,-110.7898045,way,1310919356
+Tucson,park,Feld Davis Park,32.2248194,-110.9448388,way,1329757860
+Tucson,park,Meander Bend Park,32.2582063,-111.0100477,way,1347359743
+Tucson,park,Dan Felix Memorial Park,32.3115997,-111.0331864,way,1373497303
+Tucson,park,Christopher Franklin Carroll Centennial Park,32.2240656,-110.9759114,way,1390900140
+Tucson,museum,Tucson Military Vehicle Museum,32.1378627,-110.8602286,way,1455846779
+Tucson,attraction,,32.1378002,-110.86731,way,1470142154
+Tucson,attraction,,32.141235,-110.8653801,way,1470159194
+Tucson,attraction,,32.14123,-110.8657951,way,1470159195
+Tucson,stadium,Hi Corbett Field,32.2129631,-110.9198701,way,1489299720
+Tucson,attraction,,32.2092863,-110.9206453,way,1489299776
+Tucson,university,McClelland Hall,32.2368192,-110.9544212,relation,132433
+Tucson,university,Vine Avenue Annex,32.2370024,-110.9500805,relation,132454
+Tucson,university,University Services Annex,32.2281623,-110.9759627,relation,140418
+Tucson,museum,Arizona History Museum,32.2333699,-110.9573917,relation,143958
+Tucson,university,Campus Agricultural Center,32.2793769,-110.9437676,relation,3176121
+Tucson,park,Brandi Fenton Memorial Park,32.2736492,-110.9183453,relation,4249890
+Tucson,park,Veinte de Agosto Park,32.221432,-110.9731115,relation,5654925
+Tucson,park,Santa Rita Park,32.2081741,-110.9631603,relation,5661518
+Tucson,university,University of Arizona,32.228941,-110.9565098,relation,6044244
+Tucson,attraction,Miracle Mile Historic District,32.2442954,-110.9802768,relation,9655617
+Tucson,park,Southeastern Regional Park,32.0376777,-110.7910349,relation,14052814
+Tucson,park,Groves Park,32.1715191,-110.8331248,relation,14057230
+Tucson,park,Greasewood Park,32.2313325,-111.0247042,relation,14057231
+Tucson,park,John F Kennedy Park,32.1814845,-111.009591,relation,14072250
+Tucson,park,Vista Del Pueblo Park,32.2026179,-111.0054378,relation,14093348
+Tucson,park,David G. Herrera and Ramon Quiroz Park,32.2310062,-110.9812835,relation,14103001
+Tucson,park,Danny Lopez Park,32.2891478,-111.0378908,relation,15899787
+Tucson,park,Rodeo Wash Greenway,32.1719921,-110.9766651,relation,16706649
+Tucson,park,Escalante Park,32.1796512,-110.844512,relation,20582212
+Tampa,museum,Henry B. Plant Museum,27.9462133,-82.4641818,node,282685801
+Tampa,park,American Legion Playground,28.0114082,-82.4584278,node,358690939
+Tampa,park,Drew Playground,27.9685172,-82.4879626,node,358694942
+Tampa,park,Green Playground,27.9806687,-82.4359509,node,358696829
+Tampa,zoo,Tampa's Lowry Park Zoo,28.0142673,-82.4700304,node,358699618
+Tampa,park,Palma Ciea Playground,27.9243991,-82.4905551,node,358702699
+Tampa,park,Rogers Park,28.0222412,-82.4237049,node,358704493
+Tampa,park,Rowlett Park,28.0255744,-82.4314828,node,358704625
+Tampa,park,Temple Crest Park,28.0236773,-82.4188201,node,358707672
+Tampa,park,Tampa Palms Hillsborough River Park,28.0861,-82.359,node,358758048
+Tampa,theme_park,Jungle Carousel,28.0143959,-82.4704575,node,2209942623
+Tampa,theme_park,Tiger coaster,28.014847,-82.470141,node,2209951830
+Tampa,zoo,Petting zoo,28.014712,-82.469867,node,2209952146
+Tampa,theme_park,Bumper boats and flyin bananas,28.014361,-82.469427,node,2209956792
+Tampa,theme_park,Pony ride,28.014885,-82.469486,node,2209960309
+Tampa,theme_park,Train,28.014482,-82.469677,node,2209965513
+Tampa,museum,Science Discovery Center,28.012569,-82.471464,node,2210009492
+Tampa,museum,Centro Ybor Museum,27.960871,-82.442115,node,2641006503
+Tampa,attraction,Florida State Fairgrounds,27.9672515,-82.3898268,node,4583124690
+Tampa,park,Parkland Park,27.9339476,-82.493188,node,4640777766
+Tampa,attraction,Busch Garden,28.0359218,-82.4250362,node,4921360121
+Tampa,attraction,Treehouse trek,28.0351963,-82.4256908,node,5851701863
+Tampa,attraction,,28.0364584,-82.4204486,node,7072489885
+Tampa,attraction,,28.0372192,-82.420518,node,7072489985
+Tampa,mall,The Village at Hunter's Lake,28.1395688,-82.3578079,node,7707973066
+Tampa,park,Vaughn Center Courtyard,27.9457704,-82.4660742,node,7929364512
+Tampa,park,Delo Park,27.9452469,-82.4656563,node,7929364513
+Tampa,park,Agliano Park,27.9449403,-82.4678147,node,7929364514
+Tampa,park,John F. Germany Legacy Park,28.0591825,-82.4121763,node,9466171432
+Tampa,attraction,Margaritsville at Sea Port,27.9500216,-82.4438277,node,12871417501
+Tampa,attraction,Royal Caribbean cruise port,27.9431258,-82.4458949,node,12871424602
+Tampa,attraction,Carnival cruise port,27.9457063,-82.444141,node,12871426601
+Tampa,museum,Florida Museum of Photographic Arts,27.9603908,-82.4407195,node,13470922412
+Tampa,park,Palm Ave Microforest,27.9623131,-82.4423429,node,13759378557
+Tampa,park,HC Ybor Campus Main Courtyard,27.9622679,-82.4433699,node,13759378558
+Tampa,theme_park,Serengeti Flyer,28.0375871,-82.4209505,node,14003503401
+Tampa,park,Tony Janus Park,27.9425208,-82.4594402,way,23946179
+Tampa,park,Phil Bourquardez Park,27.9599841,-82.4613958,way,23973283
+Tampa,park,AIDS Memorial Park,27.9409184,-82.4601276,way,23981446
+Tampa,park,Anderson Park,27.9343134,-82.4773901,way,23989456
+Tampa,park,DeSoto Park,27.9471067,-82.4283099,way,24005433
+Tampa,mall,Sparkman Wharf,27.9433104,-82.4469057,way,25646641
+Tampa,museum,Ybor City Museum,27.9619192,-82.4383459,way,26216188
+Tampa,park,Centennial Park,27.961355,-82.4386002,way,26216272
+Tampa,university,Stetson University College of Law,27.9583435,-82.4617052,way,26608593
+Tampa,park,Cuscaden Park,27.968956,-82.443574,way,26610766
+Tampa,park,18th Avenue Park,27.9693363,-82.4252199,way,27251884
+Tampa,park,"Dr. Martin Luther King, Jr. Recreation Complex",27.961437,-82.4756134,way,27428655
+Tampa,park,Bayshore Linear Park,27.9411281,-82.4593852,way,27495109
+Tampa,park,Borrell Park,27.9751152,-82.4518939,way,27889717
+Tampa,park,Rough Riders Park,27.9600833,-82.4460574,way,28093787
+Tampa,park,Marjorie Park,27.9323727,-82.4549909,way,28924443
+Tampa,park,Herman Massey Park,27.9524277,-82.4602944,way,29227976
+Tampa,university,University of South Florida,28.0617722,-82.4138333,way,31675479
+Tampa,park,Branchton Park,28.1428579,-82.2844849,way,32141032
+Tampa,park,Plant Park,27.9466956,-82.4627079,way,32534602
+Tampa,park,Plymouth Park,27.9735965,-82.4747652,way,32866049
+Tampa,park,Cross Creek Park,28.1563063,-82.3209471,way,35023157
+Tampa,park,Morgan Street Park,27.9638981,-82.457621,way,35875323
+Tampa,park,Robles Park,27.9740215,-82.45501,way,35877130
+Tampa,park,Copeland Park,28.0500003,-82.4402458,way,40662274
+Tampa,park,Greco Softball Complex,28.0494301,-82.4032916,way,41590733
+Tampa,park,Vila Brothers Park,27.9499188,-82.4861181,way,41653334
+Tampa,park,Seminole Heights Garden Center,28.0001589,-82.455991,way,42389680
+Tampa,museum,University Of South Florida Contemporary Art Museum;Contemporary Art Museum,28.0634958,-82.4155503,way,43097398
+Tampa,stadium,,28.0624288,-82.4067054,way,45178678
+Tampa,park,MLK Plaza,28.0625685,-82.4148012,way,48207237
+Tampa,museum,Tampa Bay History Center,27.9422446,-82.4499013,way,52035847
+Tampa,park,Freedom Park,27.9784755,-82.4721965,way,53424915
+Tampa,park,Gadsden Park,27.8663202,-82.4982673,way,62367695
+Tampa,park,Takomah Trail Park,28.0417556,-82.4014637,way,69497028
+Tampa,park,Alan Wright Park,28.0162493,-82.4441059,way,79514363
+Tampa,park,Al Lopez Park,27.9886743,-82.503114,way,84269089
+Tampa,park,Cypress Point Park,27.9512152,-82.5416129,way,84334621
+Tampa,park,22nd Street Park,28.0197791,-82.4362411,way,94255749
+Tampa,park,Rowlett Park,28.0255795,-82.4319164,way,94276794
+Tampa,park,Ragan Park,27.9787295,-82.4456332,way,98831443
+Tampa,park,MacDugal Park,28.0097207,-82.4461039,way,99428900
+Tampa,theme_park,Renaissance Fairground,28.0517584,-82.4085009,way,99652087
+Tampa,museum,Tampa Fire Fighters Museum,27.9514908,-82.4550605,way,107769981
+Tampa,park,Rivercrest Park,27.9888205,-82.4675955,way,110897264
+Tampa,park,Plymouth Playground,27.9726079,-82.4648408,way,111050493
+Tampa,park,Snow Park,27.9446925,-82.4658661,way,113621181
+Tampa,park,Riverview Terrace Playground,28.018523,-82.4585805,way,114317447
+Tampa,park,Giddens Park,27.9947283,-82.4478597,way,114697059
+Tampa,park,Fair Oaks Park,27.9919451,-82.4213995,way,115421065
+Tampa,park,Calvin Taylor Park,27.9788117,-82.4655972,way,115433531
+Tampa,attraction,Montu,28.0343606,-82.4175724,way,117147475
+Tampa,attraction,Montu,28.0348046,-82.4174114,way,117147477
+Tampa,attraction,Sheikra,28.036581,-82.4247082,way,117147479
+Tampa,attraction,Montu,28.0346111,-82.4174826,way,117147481
+Tampa,attraction,Kumba,28.039555,-82.4227388,way,117147482
+Tampa,attraction,Montu,28.034926,-82.417455,way,117147484
+Tampa,stadium,Soccer Stadium,28.060073,-82.4038475,way,120809563
+Tampa,park,David E. West Park,28.0384734,-82.4330913,way,130895874
+Tampa,park,Forest Hills Park,28.0463779,-82.4645887,way,130896223
+Tampa,park,Patterson Street Park,28.0177398,-82.447932,way,141673825
+Tampa,park,Julian B. Lane Riverfront Park,27.9537252,-82.4668752,way,143105402
+Tampa,park,Riverside Park,27.9718169,-82.4785042,way,144843917
+Tampa,park,Ignacio Haya Linear Park,27.993651,-82.4651491,way,144845123
+Tampa,park,Skyway Park,27.9751684,-82.5488447,way,145524242
+Tampa,park,Fred Ball Park,27.9221858,-82.4886836,way,147861736
+Tampa,park,Henry & Ola Park,27.9990526,-82.4660445,way,151948823
+Tampa,stadium,Raymond James Stadium,27.9759685,-82.5033558,way,154387076
+Tampa,park,Woodland Terrace Park,28.0060435,-82.4254733,way,166075699
+Tampa,museum,SS American Victory;American Victory Museum,27.9436838,-82.4441252,way,172645009
+Tampa,attraction,Pirate Ship,27.9768172,-82.5031638,way,174786516
+Tampa,park,Park Circle Park,28.0175533,-82.4464191,way,183602558
+Tampa,park,River Tower Park,28.0215385,-82.4575526,way,183604051
+Tampa,park,Tampa Waterworks Park,27.9588283,-82.4630706,way,190127200
+Tampa,park,Lowry Park,28.0144839,-82.4660852,way,190305421
+Tampa,park,A.J. Palonis Jr. Park,27.8921306,-82.5408434,way,211019250
+Tampa,park,Ballast Point Park,27.8892124,-82.4806741,way,211056083
+Tampa,attraction,Stingray Bay,28.0128165,-82.4710712,way,211153135
+Tampa,zoo,ZooTampa at Lowry Park,28.0139772,-82.469928,way,211158660
+Tampa,attraction,Asian Gardens,28.0131181,-82.47044,way,212390514
+Tampa,attraction,Primate World,28.013805,-82.4706617,way,212390517
+Tampa,attraction,Free-Flight Aviary,28.0139014,-82.47003,way,212390520
+Tampa,attraction,Wallaroo Station Children's Zoo,28.0145966,-82.4697352,way,212392947
+Tampa,attraction,Safari Africa,28.0158965,-82.4700276,way,212395202
+Tampa,attraction,Manatee & Aquatic Center,28.012948,-82.471241,way,212395203
+Tampa,stadium,Zoo Ventures Theatre,28.0117143,-82.4710832,way,212441930
+Tampa,stadium,Conservation Theatre,28.0126485,-82.4712642,way,212441931
+Tampa,museum,,28.0125343,-82.4714298,way,212441932
+Tampa,attraction,Manatee Hospital,28.012953,-82.4717304,way,212471316
+Tampa,attraction,Florida Boardwalk & Wildlife Center,28.0140325,-82.4711861,way,212472225
+Tampa,park,West Tampa Little League,27.9603587,-82.495242,way,218731067
+Tampa,park,MacFarlane Park,27.9579685,-82.4952916,way,218731086
+Tampa,park,Riverside Garden Park,27.9680241,-82.4783973,way,218731319
+Tampa,park,Orange Grove Park,28.0367878,-82.4861957,way,229318109
+Tampa,park,Gwazi Field,28.0349746,-82.4246522,way,263522744
+Tampa,stadium,George M. Steinbrenner Field,27.9801422,-82.5067081,way,265077251
+Tampa,park,Phillips Park,27.9671091,-82.4692,way,275282966
+Tampa,theme_park,Busch Gardens Tampa,28.0381069,-82.4212596,way,287655498
+Tampa,theme_park,Adventure Island,28.041912,-82.4131039,way,287681249
+Tampa,mall,,27.9951053,-82.433642,way,308030540
+Tampa,mall,,27.9946586,-82.4875244,way,308030562
+Tampa,park,Washington Street Park,27.9484,-82.4469806,way,314933066
+Tampa,mall,Centro Ybor,27.9613541,-82.4414239,way,333540391
+Tampa,stadium,WIBMMS Athletic grounds,27.9925683,-82.4083608,way,353723104
+Tampa,park,MacDill 48,27.8736964,-82.4974424,way,364381654
+Tampa,attraction,Kumba,28.0402195,-82.4229411,way,364580058
+Tampa,attraction,Kumba,28.0394646,-82.4239935,way,364580059
+Tampa,attraction,Congo River Rapids,28.0400646,-82.4239304,way,364580060
+Tampa,attraction,Cheetah Hunt,28.0359229,-82.4204487,way,365184641
+Tampa,park,The Meadows,28.0668304,-82.4032144,way,436806215
+Tampa,stadium,Yuengling Center,28.0592448,-82.4065656,way,436806216
+Tampa,park,C. Broughton Williams Park,27.9471687,-82.5153257,way,469228928
+Tampa,park,Bobby Hicks Park,27.8773265,-82.5165511,way,469595661
+Tampa,park,Picnic Island Park,27.852777,-82.5521441,way,469597208
+Tampa,park,Skyview Park,27.8771078,-82.495558,way,469617508
+Tampa,park,Spanish American War Memorial Park,27.8666545,-82.5265443,way,469618168
+Tampa,park,Palma Ceia Lions Park,27.8879504,-82.5217603,way,469619123
+Tampa,park,Foster Park,27.8959493,-82.5113148,way,469619485
+Tampa,park,Corona Park,27.9139281,-82.5045233,way,469620085
+Tampa,park,Hyde Park,27.9362096,-82.4799183,way,469631195
+Tampa,park,Sycamore Forest,28.064911,-82.4053938,way,479744226
+Tampa,park,Simmons Park,28.06185,-82.4179341,way,486600707
+Tampa,mall,,27.9131632,-82.5056579,way,523371339
+Tampa,mall,Britton Plaza,27.9066602,-82.5039974,way,523371702
+Tampa,mall,Fowler Plaza South,28.0535552,-82.4328425,way,524031475
+Tampa,attraction,Ubanga-Banga Bumper Cars,28.0389891,-82.4234953,way,524038828
+Tampa,attraction,Iron Gwazi,28.0339842,-82.4230853,way,524038840
+Tampa,attraction,,28.0341999,-82.4178903,way,524038916
+Tampa,park,Grant Park,27.9785244,-82.395696,way,524228607
+Tampa,mall,,27.9656206,-82.5210778,way,524312645
+Tampa,museum,Tampa Baseball Museum,27.9619946,-82.4377933,way,524527015
+Tampa,museum,Columbia Centennial Museum,27.960054,-82.4357007,way,524527203
+Tampa,park,Lewis Lake,27.8341137,-82.4841397,way,551172913
+Tampa,park,USF Arts Mall,28.0636119,-82.4152074,way,583352485
+Tampa,park,USF Contemplation Garden,28.0649132,-82.4134309,way,583352486
+Tampa,park,Castor Beach,28.0632327,-82.411091,way,583352492
+Tampa,park,Greek Village,28.0672527,-82.4063833,way,583352497
+Tampa,park,USF NPHC Plaza,28.0658131,-82.4137962,way,583352500
+Tampa,park,Solar Awesomeness,28.0606441,-82.4100947,way,583352505
+Tampa,attraction,Air Grover,28.0346066,-82.4253128,way,616127932
+Tampa,attraction,Stanleyville Falls,28.0377917,-82.4240872,way,616177057
+Tampa,attraction,Kangaroo Petting zoo,28.0329907,-82.4257582,way,619197401
+Tampa,attraction,Hippopotamus,28.0352156,-82.4203471,way,619441296
+Tampa,park,Oakwood Village Community Clubhouse,28.1648568,-82.3670708,way,622455460
+Tampa,park,Harbour Isles Park,27.9383725,-82.4483881,way,626671864
+Tampa,park,Garrison Channel Park,27.9404024,-82.4497202,way,626672279
+Tampa,park,Forest Hills Dog Walk Loop,28.0373121,-82.4740817,way,632232329
+Tampa,park,Perio & Albany Park,28.0359582,-82.4810419,way,632238489
+Tampa,park,Purity Springs Park,28.0218231,-82.4622571,way,632599487
+Tampa,attraction,Sheikra,28.0366574,-82.4245674,way,651204424
+Tampa,attraction,Sheikra,28.0366108,-82.4251431,way,651204425
+Tampa,university,University of Tampa East Campus,27.9473987,-82.4650228,way,653277127
+Tampa,attraction,Cheetah Hunt,28.0340121,-82.4202546,way,656050723
+Tampa,attraction,Cheetah Hunt,28.0354995,-82.4204208,way,656050724
+Tampa,attraction,Kumba,28.0400856,-82.423065,way,656573179
+Tampa,attraction,Kumba,28.0396165,-82.4226704,way,657717217
+Tampa,attraction,Kumba,28.0397998,-82.4230948,way,657717218
+Tampa,attraction,Kumba,28.0396918,-82.4236288,way,657717219
+Tampa,park,Epps Park,28.0060731,-82.4662616,way,659388722
+Tampa,park,José Martí Friends Park,27.9607806,-82.4452955,way,661037986
+Tampa,mall,Westshore Plaza Mall,27.9472247,-82.5274155,way,683108033
+Tampa,park,Lincoln Gardens Park,27.9617613,-82.5102224,way,717373278
+Tampa,park,Loretta Ingraham Park,27.957264,-82.5150716,way,732761067
+Tampa,mall,Town Square Center,27.9438744,-82.5234551,way,738518645
+Tampa,park,Jim Walters Park,27.9565028,-82.5104396,way,742640590
+Tampa,university,University of Tampa West Campus,27.9471741,-82.4704848,way,775821134
+Tampa,park,Southwest Port Tampa Park,27.8571143,-82.534257,way,788028753
+Tampa,park,Swann Park,27.9376803,-82.5200894,way,788032389
+Tampa,park,City of Tampa Park,28.1591173,-82.3021969,way,838853573
+Tampa,park,Curtis Hixon Waterfront Park,27.9489569,-82.4622385,way,905636016
+Tampa,park,Kiley Gardens,27.947909,-82.4610345,way,906203996
+Tampa,park,MacDill Park on the Riverwalk,27.9452585,-82.4588327,way,906263885
+Tampa,park,Joseph Frye Park,27.943003,-82.4582681,way,906263893
+Tampa,park,USF Park on the Riverwalk,27.9422635,-82.4579216,way,906263912
+Tampa,park,Cotanchobee Fort Brooke Park,27.9417349,-82.451216,way,906567316
+Tampa,park,Dick Greco Plaza,27.9415756,-82.4548343,way,906646217
+Tampa,park,Franklin Street Park,27.9434459,-82.4565793,way,906698704
+Tampa,park,Lee Roy Selmon Park,27.9442412,-82.4545323,way,906698738
+Tampa,park,Lykes Gaslight Park,27.947921,-82.4585193,way,907388097
+Tampa,park,Joe Chillura Courthouse Square,27.9490778,-82.4551425,way,909471799
+Tampa,park,Jefferson Street Park,27.946138,-82.4520625,way,910921947
+Tampa,park,Madison Street Park,27.9516743,-82.4472822,way,923434434
+Tampa,park,Reed Park,27.9854905,-82.4708904,way,938814046
+Tampa,attraction,Montu,28.0341812,-82.417996,way,958225638
+Tampa,attraction,Cheetah Hunt,28.0340576,-82.4200021,way,958225640
+Tampa,attraction,Sheikra,28.0367693,-82.4244231,way,958228532
+Tampa,attraction,Air Grover,28.0347164,-82.425351,way,958229525
+Tampa,attraction,Cobra's Curse,28.0347653,-82.4185157,way,958234059
+Tampa,attraction,Cobra's Curse,28.034615,-82.4187221,way,958234060
+Tampa,attraction,Kumba,28.0396694,-82.4233119,way,958249644
+Tampa,park,Independence Park at Harbor Bay,27.8509499,-82.4795783,way,997757341
+Tampa,museum,,27.9619758,-82.4386157,way,1012088932
+Tampa,park,Technology Park,27.9539896,-82.4525004,way,1042707407
+Tampa,attraction,,28.0337774,-82.4237242,way,1101641611
+Tampa,university,Everglades University,27.9441837,-82.5289142,way,1115087603
+Tampa,park,Tampa Park Plaza,27.957182,-82.449675,way,1125703110
+Tampa,park,Sulphur Springs Park,28.0209672,-82.4531977,way,1146818354
+Tampa,park,Rey Park,27.9619083,-82.4823434,way,1173369763
+Tampa,university,Saint Leo University,27.9552212,-82.4821471,way,1188106763
+Tampa,attraction,Stanleyville Falls,28.0379233,-82.4240679,way,1251873355
+Tampa,park,Memorial Park,27.863771,-82.4894019,way,1346995631
+Tampa,park,University of South Florida Riverfront Park,28.0706051,-82.3789805,relation,1076384
+Tampa,museum,Museum of Science & Industry,28.0536228,-82.4043114,relation,7569902
+Tampa,museum,Tampa Museum of Art,27.94947,-82.4626004,relation,7580702
+Tampa,university,University of Tampa,27.9473987,-82.4670037,relation,9084984
+Tampa,stadium,Benchmark International Arena,27.9427343,-82.4517439,relation,12296444
+Tampa,museum,Glazer Children's Museum,27.9495806,-82.4615063,relation,12307376
+Tampa,mall,International Plaza and Bay Street,27.9647482,-82.5206762,relation,12751082
+Tampa,park,Perry Havery Senior Park,27.9557133,-82.4551935,relation,13952768
+Indianapolis,park,Brookside Park,39.7903201,-86.1072076,node,358649911
+Indianapolis,park,Eagle Creek Park,39.8683754,-86.3005483,node,358652996
+Indianapolis,park,Eagle Creek Park,39.8794864,-86.3097154,node,358652999
+Indianapolis,park,Island Park,39.8892068,-86.1280428,node,358657224
+Indianapolis,park,Longacre Park,39.6972669,-86.1316527,node,358658876
+Indianapolis,park,Gustafson Park,39.8100429,-86.2586014,node,358660249
+Indianapolis,park,Davey Athletic Complex,39.8458468,-86.1671853,node,358684210
+Indianapolis,park,Butler Athletic Fields,39.8413889,-86.1752778,node,358684215
+Indianapolis,park,North Mall,39.84,-86.1713889,node,358684218
+Indianapolis,park,East Mall,39.8393869,-86.1702894,node,358684221
+Indianapolis,park,West Mall,39.839411,-86.172595,node,358684224
+Indianapolis,park,South Mall,39.837959,-86.1713138,node,358684226
+Indianapolis,park,Saint Francis Colonnade,39.8165554,-86.2023521,node,358684229
+Indianapolis,park,Norris Plaza,39.8393827,-86.1713302,node,358684238
+Indianapolis,park,Kuntz Stadium,39.7901832,-86.1882117,node,358684324
+Indianapolis,park,Dubarry Park,39.8207685,-86.0162935,node,358684446
+Indianapolis,park,Brien Park,39.8005556,-86.0677778,node,358684451
+Indianapolis,park,Grassy Creek Park,39.8225,-85.9833333,node,358684462
+Indianapolis,park,Central Park,39.6336111,-86.3097222,node,358684498
+Indianapolis,park,Krannent Park,39.7575,-86.2677778,node,358684547
+Indianapolis,park,Airport Park,39.8266667,-86.2930556,node,358684551
+Indianapolis,park,Centennial And 20th Street Park,39.7933333,-86.2127778,node,358684570
+Indianapolis,attraction,Depew Memorial Fountain,39.7719906,-86.15699,node,1283229759
+Indianapolis,attraction,The Obelisk,39.7747971,-86.1568856,node,1289479681
+Indianapolis,park,Franklin Township Community Park,39.6814212,-86.0107427,node,2347023129
+Indianapolis,park,Garfield Park Conservatory,39.7321507,-86.1413474,node,2713449263
+Indianapolis,attraction,Ancient Tree Trunk,39.8737813,-86.2966101,node,2993385395
+Indianapolis,university,SL Building,39.7739793,-86.1709648,node,4631067087
+Indianapolis,university,IT Building,39.7739474,-86.1680898,node,4631072262
+Indianapolis,stadium,Key Stadium,39.7099349,-86.1315323,node,4631086152
+Indianapolis,museum,Crispus Attucks Museum,39.7825501,-86.1703295,node,4988783387
+Indianapolis,museum,Indiana State Police Museum,39.7971228,-86.0147373,node,5010257145
+Indianapolis,university,LD Building,39.7733326,-86.1706799,node,5048649837
+Indianapolis,attraction,Memorial and External Flame,39.7998152,-86.0182925,node,5223502000
+Indianapolis,park,Thompson Park,39.6941223,-86.0548372,node,5365550597
+Indianapolis,museum,Newfields,39.8254617,-86.1851419,node,5499944136
+Indianapolis,park,Presidential Place Park,39.766942,-86.1524947,node,6110263855
+Indianapolis,attraction,American Heart Association Learn CPR Station,39.7148075,-86.2953172,node,6887315648
+Indianapolis,attraction,Indy Logo,39.7150114,-86.2975984,node,6887320772
+Indianapolis,museum,Indianapolis Fire Fighters Museum,39.7773119,-86.1460716,node,9035735603
+Indianapolis,park,Community Pool,39.6852273,-86.051832,node,11119611560
+Indianapolis,museum,The Car Museum,39.781205,-86.162361,node,11406452777
+Indianapolis,park,Kennedy-King National Commemorative Site,39.7907655,-86.1465235,node,11794429112
+Indianapolis,attraction,International Chimpanzee Complex Community Hub,39.7664018,-86.1768396,node,11988829220
+Indianapolis,museum,Ray Bradbury Center,39.7738683,-86.1751864,node,12230702823
+Indianapolis,park,The Oval,39.7667861,-86.1713424,node,12248866931
+Indianapolis,university,North Hall,39.776308,-86.172165,node,13240146001
+Indianapolis,university,Campus Center,39.7739428,-86.176291,node,13242817501
+Indianapolis,park,Retherford Park,39.6513009,-85.9716719,node,13590742701
+Indianapolis,stadium,Lucas Oil Stadium,39.7600704,-86.1638081,way,27258709
+Indianapolis,park,Broad Ripple Park,39.8713115,-86.131053,way,50894704
+Indianapolis,museum,Lilly House,39.8284233,-86.185513,way,58152308
+Indianapolis,museum,Indianapolis Museum of Art,39.8260277,-86.1854892,way,58253291
+Indianapolis,park,Military Park,39.7704167,-86.1686312,way,113047346
+Indianapolis,stadium,Victory Field,39.7647255,-86.168636,way,113047379
+Indianapolis,museum,NCAA Hall of Champions,39.7683056,-86.1712974,way,113050080
+Indianapolis,park,American Legion Mall,39.7767427,-86.1568158,way,113050081
+Indianapolis,park,University Park,39.7720032,-86.1569919,way,113050082
+Indianapolis,park,Indiana World War Memorial Plaza,39.7748035,-86.1568922,way,113050094
+Indianapolis,museum,Eiteljorg Museum,39.7685493,-86.1677967,way,113050097
+Indianapolis,attraction,,39.7747943,-86.1568984,way,113748625
+Indianapolis,park,Hudnut Commons,39.7664419,-86.1625572,way,113859314
+Indianapolis,zoo,Indianapolis Zoo,39.7670582,-86.1801051,way,113879534
+Indianapolis,park,White River State Park,39.767645,-86.1771947,way,113890743
+Indianapolis,park,Southwestway Park,39.6484585,-86.2428688,way,156568432
+Indianapolis,park,Southeastway Park,39.686088,-85.9586142,way,156574160
+Indianapolis,university,University of Indianapolis,39.7094687,-86.1347263,way,156881087
+Indianapolis,university,Physical Plant,39.7117019,-86.1371898,way,156884724
+Indianapolis,university,,39.7117778,-86.1363724,way,156884726
+Indianapolis,park,Eagle Creek Park,39.8576245,-86.2959474,way,156992899
+Indianapolis,park,Gilmer Canine Companion Zone,39.8578203,-86.269468,way,157028063
+Indianapolis,park,Taggart Riverside Park,39.8050388,-86.1939953,way,158084127
+Indianapolis,mall,River Ridge,39.925501,-86.0898886,way,160564106
+Indianapolis,stadium,Indiana State Fair Coliseum,39.8275737,-86.1351451,way,169098835
+Indianapolis,park,Bertha Ross Park,39.8204535,-86.1812148,way,179325211
+Indianapolis,mall,River Ridge,39.9258093,-86.0877253,way,180070285
+Indianapolis,mall,Castleton Square Mall,39.9089445,-86.0648721,way,183618611
+Indianapolis,mall,Clearwater Springs,39.9042395,-86.0842456,way,191725446
+Indianapolis,mall,Clearwater Springs,39.9038724,-86.0815542,way,191725454
+Indianapolis,park,Eagle Highlands Neighborhood Park,39.8312877,-86.2825629,way,191824708
+Indianapolis,mall,96th Street Station,39.9255445,-86.0688205,way,194937224
+Indianapolis,museum,Eli Lilly Replica Lab,39.7546887,-86.1537802,way,199466767
+Indianapolis,university,Lecture Hall,39.7727934,-86.1750378,way,199990781
+Indianapolis,museum,Indiana Medical History Museum,39.7711666,-86.2147291,way,211263358
+Indianapolis,museum,Indiana Medical History Museum,39.7698742,-86.2133245,way,211263360
+Indianapolis,park,Riverside Adventure Park,39.8142236,-86.1970991,way,218557826
+Indianapolis,mall,,39.8286925,-86.2362545,way,221162644
+Indianapolis,stadium,Franklin Township Athletic Center,39.6792549,-86.0167814,way,225881882
+Indianapolis,park,North Westway Park,39.8637787,-86.2506274,way,228531046
+Indianapolis,park,Highland Park,39.770809,-86.1380545,way,234911897
+Indianapolis,museum,Hook's Drug Store,39.8267785,-86.1375697,way,264030292
+Indianapolis,park,Willard Park,39.7667668,-86.1278795,way,274678200
+Indianapolis,park,Holliday Park,39.8709664,-86.1596319,way,286194948
+Indianapolis,park,Batnan Park,39.812395,-86.2570004,way,286356762
+Indianapolis,park,Canterbury Park,39.8541386,-86.1402561,way,287807421
+Indianapolis,museum,Childrens Museum,39.8107644,-86.1579191,way,297351032
+Indianapolis,park,Bruiser Memorial Park,39.7960939,-86.2172225,way,297685498
+Indianapolis,park,Centennial and Groff Park,39.7991393,-86.2135705,way,297685501
+Indianapolis,park,Taylor Courtyard,39.7738503,-86.1741051,way,302684731
+Indianapolis,park,Clayton And LaSalle Park,39.7615068,-86.1086644,way,304131404
+Indianapolis,mall,,39.9123079,-86.2606368,way,318779234
+Indianapolis,mall,,39.9122764,-86.2616338,way,318779235
+Indianapolis,mall,,39.9133711,-86.262641,way,318779239
+Indianapolis,park,Monument Circle,39.7685219,-86.1580426,way,339439360
+Indianapolis,museum,The Hall,39.7701978,-86.1529535,way,339570769
+Indianapolis,attraction,Soldiers and Sailors Monument,39.7685216,-86.1580438,way,339773760
+Indianapolis,museum,Indiana Historical Society,39.7705223,-86.166044,way,340008420
+Indianapolis,museum,Kurt Vonnegut Museum and Library,39.7755038,-86.1662505,way,340194677
+Indianapolis,stadium,Gainbridge Fieldhouse,39.7640528,-86.1554881,way,341313456
+Indianapolis,park,Riverwood Park,39.8863848,-86.1268024,way,344575620
+Indianapolis,park,Dan Wakefield Park,39.864906,-86.1475787,way,344578662
+Indianapolis,park,Stamm Park,39.8837499,-86.1301608,way,344578664
+Indianapolis,park,Alice Carter Park,39.8575597,-86.1578265,way,344585366
+Indianapolis,park,Friedman Park,39.8597488,-86.1610473,way,344585367
+Indianapolis,park,Arsenal Park,39.8415521,-86.1361687,way,344599702
+Indianapolis,park,Andrew Ramsey Park,39.8328497,-86.1649122,way,344600651
+Indianapolis,park,Elwood & Mary Black Park,39.8329559,-86.1736359,way,344601153
+Indianapolis,park,Tarkington Park,39.8274249,-86.1580637,way,344602990
+Indianapolis,park,Richard and Annette Bloch Cancer Survivors Park,39.780578,-86.1745507,way,346614318
+Indianapolis,university,Butler University,39.8410231,-86.1713934,way,347368393
+Indianapolis,park,Max Bahr Park,39.7718262,-86.2074875,way,352359780
+Indianapolis,park,Martin Luther King Memorial Park,39.7930712,-86.1465345,way,352364365
+Indianapolis,park,O'Bannon Old Northside Soccer Park,39.7869794,-86.1419822,way,352368911
+Indianapolis,park,James T.V. Hill Park,39.7912555,-86.136702,way,352369804
+Indianapolis,park,Douglass Park,39.8070388,-86.1332874,way,352371776
+Indianapolis,park,Garfield Park,39.7335684,-86.1454003,way,352372936
+Indianapolis,park,Sandorf Park,39.740935,-86.1293388,way,352373494
+Indianapolis,park,Brown's Corner Park,39.7710005,-86.0839071,way,354120374
+Indianapolis,park,Ellenberger Park,39.7765515,-86.0766614,way,356051424
+Indianapolis,park,Christian Park,39.7623855,-86.0977695,way,356066840
+Indianapolis,park,Reverend Mozel Sanders Park,39.7842936,-86.1929196,way,356401102
+Indianapolis,park,Indianola Park,39.7671044,-86.1935749,way,356401249
+Indianapolis,park,Rhodius Park,39.7540975,-86.1942798,way,356402098
+Indianapolis,park,Retherford Park,39.6512507,-85.9729947,way,358463100
+Indianapolis,park,Acton Park,39.6620614,-85.9723094,way,358463101
+Indianapolis,attraction,Benjamin Harrison Presidential Site,39.7841047,-86.1544207,way,395057889
+Indianapolis,attraction,Skyline,39.7683998,-86.1806879,way,396659062
+Indianapolis,park,Lord Street Common,39.7623853,-86.147486,way,397776831
+Indianapolis,park,Ben Davis Park,39.7964788,-86.2935614,way,437690384
+Indianapolis,park,Edna Balz Lacy Park,39.7569328,-86.1486795,way,440420673
+Indianapolis,park,Sahm Park,39.9161201,-86.0581941,way,449029985
+Indianapolis,park,Meridian Woods Park,39.6670565,-86.1769579,way,450002110
+Indianapolis,park,Glenns Valley Nature Park,39.6459938,-86.1939685,way,468495839
+Indianapolis,park,Moreland Park,39.8083866,-86.2138453,way,468595447
+Indianapolis,park,Southside Park,39.7076124,-86.1251213,way,469425330
+Indianapolis,park,Opti Park,39.8766906,-86.1448163,way,471290000
+Indianapolis,park,Crooked Creek Park,39.8725777,-86.2178181,way,473617072
+Indianapolis,park,Gray Park,39.6642297,-86.0991617,way,480016922
+Indianapolis,park,Southport Park,39.6661778,-86.1203413,way,480018480
+Indianapolis,park,Ross Claypool Park,39.7467245,-86.2005996,way,481430694
+Indianapolis,park,Chapel Hill Park,39.7760908,-86.2884338,way,485396874
+Indianapolis,park,Dollar Hide Creek Park,39.6764182,-86.2514605,way,486636618
+Indianapolis,park,University Heights Pocket Park,39.7059091,-86.1315472,way,486658439
+Indianapolis,park,St. Francis Soccer Club,39.6551142,-86.0683595,way,486671841
+Indianapolis,park,Franklin Township Community Park,39.6780354,-86.0090928,way,486672165
+Indianapolis,park,Craig Kids Memorial Park,39.7990931,-86.1513762,way,486829054
+Indianapolis,park,Fall Creek Place HOA park,39.802747,-86.1513005,way,486831968
+Indianapolis,park,George E. Kessler Park,39.8034347,-86.156008,way,486832828
+Indianapolis,park,Herron-Morton Place Historic Park,39.7932641,-86.1519687,way,486833885
+Indianapolis,mall,Washington Square Mall,39.7793789,-85.986086,way,492672991
+Indianapolis,park,Nina Mason Pulliam EcoLab,39.8195963,-86.2040898,way,492868417
+Indianapolis,park,Chatham Commons,39.7775283,-86.1484131,way,493096775
+Indianapolis,university,Marian University,39.8137124,-86.2035456,way,494014194
+Indianapolis,park,The Viginia B. Fairbanks Art & Nature Park: 100 Acres,39.8283422,-86.189641,way,494287538
+Indianapolis,park,Mother Mary Park,39.8116455,-86.2040815,way,498377123
+Indianapolis,park,Smith Mall,39.7096211,-86.1350769,way,507422774
+Indianapolis,stadium,Warrior Stadium,39.7935792,-85.9985224,way,509497713
+Indianapolis,park,Red Maple Park,39.7365344,-86.1137514,way,509707992
+Indianapolis,park,Indy Urban Acres,39.7977267,-86.0306499,way,515597746
+Indianapolis,park,ball park,39.6794038,-86.2591822,way,516480796
+Indianapolis,stadium,Carroll Track & Soccer Stadium,39.7710032,-86.1778466,way,517709442
+Indianapolis,park,Leonard Park,39.7851632,-86.2534725,way,535428369
+Indianapolis,park,AJ Thatcher Park,39.7701678,-86.2400066,way,535434175
+Indianapolis,park,Holcomb Gardens,39.845102,-86.1700929,way,552940259
+Indianapolis,park,Stout Field Park,39.732486,-86.2280322,way,556808894
+Indianapolis,park,Disc Golf Course,39.8643945,-86.2506168,way,557762403
+Indianapolis,university,,39.772342,-86.1726471,way,564778009
+Indianapolis,park,The Arbor Garden at IUPUI,39.7741656,-86.1744568,way,564778010
+Indianapolis,park,Rotary Park Space at IUPUI,39.7764436,-86.1824742,way,564781459
+Indianapolis,park,Indianapolis World Sports Park,39.7527363,-86.0040832,way,589141308
+Indianapolis,park,Krannert Park,39.7570114,-86.2673817,way,608489623
+Indianapolis,park,Perry Park,39.6506328,-86.1535484,way,620373109
+Indianapolis,park,German Park,39.6411169,-86.1607854,way,620383177
+Indianapolis,park,Shambaugh Park,39.8093896,-86.2591355,way,630919638
+Indianapolis,park,Gustafson Park,39.8107568,-86.2576062,way,630919641
+Indianapolis,park,Newfields,39.8283439,-86.1880867,way,635818233
+Indianapolis,park,Baumann Park,39.7418858,-86.148547,way,636916704
+Indianapolis,park,Columbia Park,39.7258106,-86.1476746,way,636917763
+Indianapolis,park,Bel Aire Park,39.7221533,-86.2185903,way,636919303
+Indianapolis,park,Presidential Place Park,39.766764,-86.1518102,way,651639769
+Indianapolis,park,Christina Oaks Park,39.7572971,-86.2347061,way,656872311
+Indianapolis,park,Carson Park,39.685541,-86.2664973,way,662779276
+Indianapolis,park,Cottage Home Community Park,39.7772701,-86.1378696,way,667777964
+Indianapolis,park,Watson Road Bird Preserve,39.823538,-86.1413586,way,680343166
+Indianapolis,park,Manchester Village Park 1,39.7039934,-86.2415609,way,684480344
+Indianapolis,park,Schwitzer Park,39.7102107,-86.1332315,way,695018957
+Indianapolis,park,Fall Creek and 30th Park,39.8093787,-86.1437687,way,705445662
+Indianapolis,park,Spades Park,39.78585,-86.1273092,way,709383457
+Indianapolis,park,Pogues Place Park,39.7739357,-86.1387676,way,723283894
+Indianapolis,park,Brookside Park,39.7888386,-86.1134589,way,733411222
+Indianapolis,park,Idle Park,39.7556915,-86.1440571,way,734856084
+Indianapolis,park,Nora Corners Community Pocket Park,39.9140491,-86.1362539,way,739079391
+Indianapolis,park,91st Street Monon Trailhead,39.9195142,-86.1370238,way,739079392
+Indianapolis,park,Jordan YMCA Monon Pocket Park & Trailhead,39.9098899,-86.1370479,way,739092135
+Indianapolis,park,Blind School Micro Park,39.8928528,-86.1413189,way,739092538
+Indianapolis,park,Chessington Grove Park,39.7051614,-86.029626,way,748833964
+Indianapolis,park,Grace Tuxedo Neighborhood Park,39.7697257,-86.0976974,way,809338922
+Indianapolis,stadium,,39.9063627,-86.1263955,way,820353021
+Indianapolis,stadium,,39.9079476,-86.1266544,way,820353022
+Indianapolis,park,Stringtown Park,39.769086,-86.1903727,way,835082467
+Indianapolis,mall,,39.6648505,-86.1837265,way,845849055
+Indianapolis,park,Southport Presbyterian Park,39.6580817,-86.0840501,way,846149622
+Indianapolis,park,Ransom Place Pocket Park,39.7784455,-86.1702849,way,846160556
+Indianapolis,park,McCarty Triangle Park,39.7563354,-86.1796827,way,859478741
+Indianapolis,park,Bethel Park,39.7438243,-86.1139767,way,880442664
+Indianapolis,park,Oscar Charleston Park,39.8087717,-86.1150249,way,881288316
+Indianapolis,park,Robey Park,39.8046376,-86.3127521,way,885329313
+Indianapolis,park,Brien Park,39.8005173,-86.0676783,way,890875643
+Indianapolis,park,Kin Hubbard Memorial Park,39.7720482,-86.0826546,way,891756981
+Indianapolis,park,Roche Diagnostics Employee Park,39.9220586,-86.0222492,way,893179987
+Indianapolis,park,Al Polin Park,39.8077514,-86.1548802,way,895264733
+Indianapolis,park,Barton Park,39.8002163,-86.1621903,way,895265597
+Indianapolis,park,Beckwith Park,39.8117102,-86.1232444,way,895267080
+Indianapolis,park,Forest Manor Park,39.7940584,-86.0984459,way,896262585
+Indianapolis,park,Stacy Park,39.7567626,-86.133621,way,896848709
+Indianapolis,park,Finch Park,39.7557685,-86.1302841,way,896865757
+Indianapolis,park,Babe Denny Park,39.7550612,-86.1643536,way,900418999
+Indianapolis,park,Kelly Park,39.7502213,-86.1599961,way,900961603
+Indianapolis,park,Ringgold Park,39.7477157,-86.1421155,way,903124929
+Indianapolis,park,Bluff Park,39.7067191,-86.1693018,way,906413118
+Indianapolis,park,Chuck Klein Softball Complex,39.7665167,-86.2403295,way,906631033
+Indianapolis,park,Sexton Park,39.7420266,-86.1527483,way,907095866
+Indianapolis,park,Ensign Graham Edward Martin Park,39.7848658,-86.1745412,way,914733710
+Indianapolis,park,Riley Park,39.7558382,-86.1755217,way,914736486
+Indianapolis,park,Watkins Park,39.7994877,-86.1716949,way,914837344
+Indianapolis,park,Hanover Park,39.7213239,-86.0321122,way,918044393
+Indianapolis,park,Wildwood Park,39.7155456,-86.0264422,way,926876970
+Indianapolis,park,Fletcher Park,39.7833779,-86.1339584,way,941600594
+Indianapolis,park,Thompson Park,39.693943,-86.0551473,way,944039734
+Indianapolis,park,Frank Young Park,39.8070969,-86.1787842,way,946959355
+Indianapolis,park,Ruckle Pocket Park,39.8109919,-86.1481335,way,950255894
+Indianapolis,park,Park Garden Pocket Park,39.8104517,-86.147589,way,950255895
+Indianapolis,park,Broadway & 29th Park,39.8093277,-86.1469536,way,950257490
+Indianapolis,park,Historic Meridian Park,39.8155602,-86.1530489,way,950260685
+Indianapolis,park,Richard G. Lugar Plaza,39.7674858,-86.153568,way,955897409
+Indianapolis,park,Orange Park,39.7494963,-86.1283475,way,957974732
+Indianapolis,park,Emhardt Park,39.7301344,-86.1640393,way,958991813
+Indianapolis,park,Westminster Greenspace,39.7712166,-86.1227313,way,959546511
+Indianapolis,park,Commons Park,39.7714805,-86.1239137,way,959568203
+Indianapolis,park,Englewood Nature Playspace and Garden,39.7691854,-86.1149737,way,960211955
+Indianapolis,museum,Indy's Teeny Statue Of Liberty Museum,39.781141,-86.1152177,way,960876625
+Indianapolis,park,Paramount School of Excellence Greenspace,39.7881503,-86.1124555,way,961115486
+Indianapolis,park,Spades Park,39.787536,-86.1225008,way,961687545
+Indianapolis,park,Lentz Park,39.7775147,-86.1958925,way,964419206
+Indianapolis,park,Lilly Recreation Park,39.7320882,-86.1789937,way,964451032
+Indianapolis,park,Little Valley Park,39.7478256,-86.1788552,way,964478281
+Indianapolis,park,Belmont Beach,39.7865008,-86.1962255,way,965246215
+Indianapolis,park,Denver Park,39.7815503,-86.2089295,way,970976536
+Indianapolis,park,Haughville Park,39.7762175,-86.2024414,way,970988865
+Indianapolis,park,Hawthorne Park,39.7663849,-86.2022144,way,972110037
+Indianapolis,park,Peace Park,39.7516777,-86.2012437,way,976395788
+Indianapolis,stadium,Lucas Oil Stadium,39.7591085,-86.1638686,way,989245934
+Indianapolis,stadium,Victory Field,39.7647654,-86.1692519,way,989724577
+Indianapolis,museum,Crown Hill Waiting Station,39.817508,-86.1649527,way,1014936609
+Indianapolis,park,Rev. Charles R. Williams Park,39.8143792,-86.1414744,way,1017459000
+Indianapolis,park,Shelton Heights Park,39.7615454,-86.227197,way,1019927278
+Indianapolis,park,Ridenour Park,39.764533,-86.2232168,way,1019930246
+Indianapolis,park,Olin Park,39.7780458,-86.2258471,way,1019941627
+Indianapolis,park,Bowman Park,39.8204704,-86.2457454,way,1025006426
+Indianapolis,park,Faculty Park,39.8147463,-86.2659861,way,1025750101
+Indianapolis,park,Gateway West Park,39.8297309,-86.2676704,way,1025973573
+Indianapolis,park,Wes Montgomery Park,39.8202084,-86.0762776,way,1033747231
+Indianapolis,museum,James Whitcomb Riley Home,39.7722298,-86.1478479,way,1033763256
+Indianapolis,mall,Raintree Plaza Shopping Center,39.8250845,-85.992622,way,1035500748
+Indianapolis,park,Ashland Neighborhood Grass Park,39.6999341,-86.0405722,way,1107777830
+Indianapolis,park,St Clair Pocket Park,39.777836,-86.1211115,way,1216279332
+Indianapolis,park,Bicentennial Unity Plaza,39.7651554,-86.1557035,way,1234793498
+Indianapolis,park,Doris Cowherd Park,39.8307192,-86.0773483,way,1261625233
+Indianapolis,park,Mid-North Greenspace,39.814243,-86.1583814,way,1275360823
+Indianapolis,park,29th and Capitol Park,39.8085356,-86.1610513,way,1275360827
+Indianapolis,park,Cummins Meadow,39.7675864,-86.1517549,way,1275452596
+Indianapolis,park,Pogue's Run Art and Nature Park,39.7991006,-86.0947872,way,1275710989
+Indianapolis,park,Dequincy Park,39.7936107,-86.0884257,way,1275710990
+Indianapolis,park,St Clair Place Community Park,39.7771979,-86.1240605,way,1275716794
+Indianapolis,park,Miracle Place Park,39.7805223,-86.1181878,way,1275716795
+Indianapolis,park,John Ed Park,39.7938398,-86.1257017,way,1275793638
+Indianapolis,park,Unity Park,39.7937385,-86.1241602,way,1275793639
+Indianapolis,park,Shawn Grove Park,39.7857269,-86.1517902,way,1275793641
+Indianapolis,park,Fall Creek Place Arboretum,39.7997969,-86.1468005,way,1275793645
+Indianapolis,park,Fall Creek Place Park,39.8040833,-86.1493884,way,1275793646
+Indianapolis,park,Hot Shot Tot Lot,39.7558431,-86.1413237,way,1275796828
+Indianapolis,park,St Philip Neri Pocket Park,39.7763408,-86.1172752,way,1275798852
+Indianapolis,park,Windsor Village Park,39.8042938,-86.0552178,way,1276092345
+Indianapolis,park,Eva C. Talley Park,39.8256468,-86.0677247,way,1276092349
+Indianapolis,park,Roselawn Park,39.8286759,-86.0866161,way,1276092357
+Indianapolis,park,Highwoods Park,39.845195,-86.1901126,way,1276098869
+Indianapolis,park,Fox Hill Manor Park,39.8627539,-86.1908332,way,1276098870
+Indianapolis,park,Juan Solomon Park,39.866487,-86.1849404,way,1276098871
+Indianapolis,park,Wish Park,39.8879787,-86.2055371,way,1276098874
+Indianapolis,park,Kitley Woods,39.7348413,-85.9604693,way,1276189130
+Indianapolis,park,Wright's Fields,39.7500855,-85.9544486,way,1276189131
+Indianapolis,park,Stable Chase Nature Sanctuary,39.7518503,-85.9656638,way,1276189132
+Indianapolis,park,Kitley and Troy Park,39.7286507,-85.9635088,way,1276189133
+Indianapolis,park,Wolf Run Park,39.7002033,-85.9914616,way,1276189134
+Indianapolis,park,Griffin Woods,39.6573319,-86.2843484,way,1276267997
+Indianapolis,park,Cloverleaf Conservation Area,39.7622077,-86.3102138,way,1276267998
+Indianapolis,park,McCord Park,39.8215754,-86.1472941,way,1278180920
+Indianapolis,park,Mapleton Park,39.8179322,-86.1464472,way,1278180921
+Indianapolis,park,Pride Park,39.7514919,-86.1088732,way,1278364057
+Indianapolis,park,Jake Greene Park,39.7902389,-86.0266582,way,1278364060
+Indianapolis,park,Raymond Park,39.7375976,-86.0177568,way,1278364069
+Indianapolis,park,Bellamy Park,39.8231419,-85.9991802,way,1278364078
+Indianapolis,park,Pennsy Trail Park,39.77139,-85.9785419,way,1278466647
+Indianapolis,park,Pocket Park,39.8142766,-86.1611556,way,1278577346
+Indianapolis,park,Colorado and 29th Park,39.8074063,-86.0950028,way,1278577350
+Indianapolis,park,Brightwood Park,39.8008248,-86.107464,way,1278577351
+Indianapolis,park,Boulevard Station,39.8258481,-86.1402181,way,1278577352
+Indianapolis,park,Patricia Park,39.8119179,-86.2343146,way,1278577360
+Indianapolis,park,Pathways to Peace Garden,39.7723792,-86.1630923,way,1288347963
+Indianapolis,park,Highway Parcel 15,39.8124049,-86.1781067,way,1288354962
+Indianapolis,park,Chapel Glen Club,39.7754056,-86.3170521,way,1292236999
+Indianapolis,park,Canal Walk,39.769141,-86.1662577,way,1292755829
+Indianapolis,park,Canal Walk,39.7696177,-86.1654094,way,1292755888
+Indianapolis,park,Canal Walk,39.7707691,-86.1651022,way,1292756002
+Indianapolis,park,Canal Walk,39.777552,-86.1643521,way,1292756172
+Indianapolis,park,Canal Walk,39.7775279,-86.1653283,way,1292756352
+Indianapolis,park,Canal Walk,39.7697281,-86.1660682,way,1292756650
+Indianapolis,park,Springdale Community Park,39.7859324,-86.1246514,way,1300347725
+Indianapolis,park,Willard Pocket Park,39.7704157,-86.1278364,way,1304438606
+Indianapolis,park,Ruth Shaw Park,39.7800072,-86.117239,way,1321612650
+Indianapolis,park,Triangle Park,39.7838441,-86.1276426,way,1321612653
+Indianapolis,park,Fall Creek Greenway,39.8060367,-86.1537092,way,1331947371
+Indianapolis,park,Englewood CDC Playspace,39.7705088,-86.1161015,way,1331999336
+Indianapolis,park,Blickman Trail Park,39.87635,-86.1512806,way,1366692297
+Indianapolis,park,Art’s Center Canoe Launch,39.8785326,-86.1414331,way,1366696922
+Indianapolis,park,Hendricks Park,39.7517988,-86.1528211,way,1382552262
+Indianapolis,park,Hendricks Park,39.7511606,-86.1539163,way,1382552263
+Indianapolis,park,Hendricks Park,39.750254,-86.1538724,way,1382552265
+Indianapolis,park,Chinquapin Oak Park,39.7859548,-86.1218506,way,1383750446
+Indianapolis,park,The Garden,39.7323223,-86.1567591,way,1390691836
+Indianapolis,park,Spark on the Circle,39.768821,-86.1584743,way,1392016742
+Indianapolis,park,The Recess,39.7579888,-86.1456174,way,1392022298
+Indianapolis,park,Thatcher Hole 2 Teabox,39.7719269,-86.236219,way,1422668829
+Indianapolis,park,Practice Putting Green,39.8548451,-86.3214645,way,1422668830
+Indianapolis,park,Practice Putting Green,39.855377,-86.322086,way,1422668831
+Indianapolis,park,Lappin Way Park,39.7998611,-85.9766171,way,1463812874
+Indianapolis,park,Town Run Trail Park,39.9176857,-86.0848928,relation,3687351
+Indianapolis,park,Irvington Circle,39.7664183,-86.070262,relation,5267817
+Indianapolis,museum,Indiana State Museum,39.7688945,-86.1698831,relation,6268982
+Indianapolis,attraction,Indiana World War Memorial Plaza,39.7746391,-86.156909,relation,7976809
+Indianapolis,mall,Circle Center Mall,39.7656616,-86.1590872,relation,9725853
+Indianapolis,park,Woolens Gardens Natural Resource Area,39.8637668,-86.0530289,relation,13584066
+Indianapolis,park,Skiles Test Nature Park,39.8718927,-86.0508109,relation,14034179
+Indianapolis,park,Fort Harrison State Park,39.8693794,-86.0196097,relation,15437652
+Indianapolis,park,South Street Square Park,39.7606347,-86.1519909,relation,15514264
+Indianapolis,park,Dubarry Park,39.820467,-86.0162127,relation,15987677
+Indianapolis,park,Grassy Creek Regional Park,39.8142214,-85.9813568,relation,15989846
+Indianapolis,university,Indiana University Indianapolis,39.7745423,-86.1779447,relation,16128264
+Indianapolis,park,Gardner Park,39.8394089,-86.049145,relation,17250123
+Indianapolis,park,George Washington Park,39.8144525,-86.1145463,relation,19385782
+Indianapolis,park,Paul Ruster Park,39.7591423,-85.9635073,relation,20109859
+Nashville,university,Aquinas College,36.1320979,-86.8440125,node,356785580
+Nashville,park,Cleveland Park,36.1875559,-86.7602761,node,356794875
+Nashville,park,East Park,36.1731119,-86.7605539,node,356799513
+Nashville,park,Elizabeth Park,36.1785043,-86.8030626,node,356800197
+Nashville,park,Hartman Park,36.2111665,-86.8255549,node,356809377
+Nashville,park,McCabe Park,36.1397799,-86.8475,node,356819106
+Nashville,park,Napier Park,36.1503348,-86.7558317,node,356822985
+Nashville,park,Peeler Park,36.2006108,-86.6533298,node,356826409
+Nashville,park,Rose Park,36.1432297,-86.7836581,node,356830969
+Nashville,park,Cedar Hill Park,36.2711642,-86.7463865,node,356844075
+Nashville,park,Old Hickory Lake Park,36.2883854,-86.6624964,node,356845631
+Nashville,park,Bicentennial Park,36.1661716,-86.7766766,node,356878721
+Nashville,park,Bordeaux Park,36.2156109,-86.8441663,node,356878817
+Nashville,park,Bellevue Park,36.0783932,-86.9586134,node,356878823
+Nashville,park,Ezell Road Park,36.0883926,-86.677775,node,356879119
+Nashville,park,Nashville Shores Recreation Area,36.1320021,-86.6263849,node,356879122
+Nashville,park,Four Corners Recreation Area,36.0500609,-86.5733282,node,356879244
+Nashville,park,Hamilton Creek Metropolitan Park,36.1078364,-86.6236071,node,356879286
+Nashville,park,Hermitage Lands Wildlife Management Area,36.1622997,-86.6081691,node,356879311
+Nashville,park,Lock One Park,36.1997778,-86.7877765,node,356879368
+Nashville,park,Parkwood Park,36.2353322,-86.7716649,node,356879473
+Nashville,park,Seven Points Public Use Area,36.133391,-86.5702728,node,356879617
+Nashville,park,Smith Springs Public Use Area,36.0889483,-86.5888842,node,356879630
+Nashville,park,Suggs Creek Public Use Area,36.1325577,-86.5463834,node,356879635
+Nashville,park,Trinity Hills Park,36.2214438,-86.789443,node,356879654
+Nashville,park,Whites Creek Park,36.2750532,-86.8183321,node,356879694
+Nashville,park,Metro Riverfront Park,36.1628384,-86.7744542,node,356894260
+Nashville,park,Old Hickory Beach Access Area,36.2875521,-86.6574963,node,356894347
+Nashville,park,Edward S Temple Track,36.1697789,-86.8313885,node,356898080
+Nashville,park,Peabody Esplanade,36.1414463,-86.7988881,node,356898107
+Nashville,park,Harpeth River Park,36.0783932,-86.9594467,node,356898491
+Nashville,park,Hill Park,36.1353357,-86.8852785,node,356898499
+Nashville,park,J Percy Priest Wildlife Management Area,36.1408907,-86.5841619,node,356898501
+Nashville,park,Chapman Quad,36.1442,-86.8009,node,356901209
+Nashville,university,Meharry School of Dentistry,36.1679337,-86.8066183,node,356901447
+Nashville,park,Carter Park,31.2001979,-83.2370987,node,358752466
+Nashville,park,Dogwood Street Recreation Area,31.207338,-83.2529313,node,358752488
+Nashville,park,Northside Park,31.2179682,-83.2463778,node,358752594
+Nashville,museum,Adventure Science Center,36.1464461,-86.7755543,node,368158231
+Nashville,museum,Croft House,36.087356,-86.745018,node,830820217
+Nashville,museum,Tennessee Sports Hall of Fame,36.1598551,-86.7790511,node,1440836240
+Nashville,museum,Charlie Daniels Museum,36.1624734,-86.775336,node,1440913491
+Nashville,museum,Tennessee State Museum - Military Branch,36.1638916,-86.7834714,node,1440957066
+Nashville,museum,Cheekwood Mansion,36.089208,-86.876595,node,1962184267
+Nashville,park,"Shy's Hill, Battle of Nashville",36.0880654,-86.8095319,node,2110227971
+Nashville,attraction,Printers Alley,36.1645123,-86.7786785,node,2729284207
+Nashville,attraction,Arcade Street,36.1642308,-86.7800961,node,2729284551
+Nashville,attraction,Visitor Center,36.1508579,-86.6210775,node,3442359575
+Nashville,museum,Tennessee Central Railway Museum,36.1549256,-86.7542765,node,4143621891
+Nashville,attraction,Fontanel Mansion,36.2570112,-86.8295251,node,4321273360
+Nashville,attraction,AdventureWorks Zipline Forest,36.2574876,-86.8293807,node,4321273539
+Nashville,museum,George Jones Museum,36.162883,-86.7756332,node,4574280356
+Nashville,museum,Musicians Hall of Fame,36.1677075,-86.7826767,node,4574280383
+Nashville,attraction,Bell Carillon,36.1728691,-86.788825,node,4604096510
+Nashville,museum,National Museum of African American Music,36.1608246,-86.7792151,node,4673828917
+Nashville,park,Gazebo park,36.1048029,-86.7241254,node,4710788929
+Nashville,park,Gazebo leisure field,36.1077197,-86.7260574,node,4710791140
+Nashville,university,Lipscomb College of Computing and Technology,36.1046451,-86.7994041,node,4914089252
+Nashville,park,Historical Marker: Sherrod Bryant,36.0730426,-86.5226548,node,4964890768
+Nashville,museum,Tennessee Agricultural Museum,36.0624804,-86.7460378,node,5664693081
+Nashville,park,Cleece's Ferry Boat Ramp,36.1432552,-86.890877,node,5771815594
+Nashville,park,Poplar Creek Trailhead,36.1563003,-86.9265646,node,5771816866
+Nashville,park,Bells Bend Outdoor Center,36.1543347,-86.9218991,node,5771817485
+Nashville,attraction,AxeVentures,36.2194744,-86.6979137,node,6541056785
+Nashville,university,Admissions Welcome Center,36.1037861,-86.8006272,node,7284048791
+Nashville,park,Harpeth River State Park Coley Davis Access,36.0768454,-86.9642613,node,7835753680
+Nashville,park,Harpeth River State Park - Highway 100 Access,36.0541045,-86.9289969,node,7835833675
+Nashville,park,South Patio Lawn,36.1412864,-86.7971866,node,9823385282
+Nashville,park,The Martha Rivers Ingram Commons,36.1407727,-86.797267,node,9823385283
+Nashville,park,Commons Center Lawn,36.1419003,-86.7979628,node,9823385284
+Nashville,park,SLC Lawn,36.1444928,-86.8053343,node,9823385285
+Nashville,zoo,,36.140822,-86.7712508,node,11403901584
+Nashville,zoo,,36.1453079,-86.7736922,node,11403901585
+Nashville,museum,Museum of Christian and Gospel Music,36.162472,-86.7783978,node,13250056115
+Nashville,park,Mansker Creek Park,36.3438018,-86.7229897,node,13647919711
+Nashville,mall,Opry Mills,36.2031868,-86.6925739,way,53624713
+Nashville,stadium,Nissan Stadium,36.1665191,-86.7713834,way,58759639
+Nashville,zoo,Nashville Zoo at Grassmere,36.0881162,-86.7393881,way,69796196
+Nashville,park,South Inglewood Park,36.1968427,-86.727593,way,107438192
+Nashville,museum,Frist Art Museum,36.1576164,-86.7836376,way,130905893
+Nashville,stadium,Bridgestone Arena,36.1592058,-86.7784422,way,130905914
+Nashville,museum,Country Music Hall of Fame and Museum,36.15819,-86.7761014,way,130905919
+Nashville,park,Music City Walk of Fame Park,36.1592433,-86.7768411,way,130905926
+Nashville,attraction,Fort Nashborough,36.1641921,-86.7753645,way,130910783
+Nashville,park,Riverfront Park,36.1639857,-86.7739387,way,130910788
+Nashville,park,Church Street Park,36.1626406,-86.7818483,way,130910795
+Nashville,park,Public Square Park,36.1669256,-86.7781825,way,130913024
+Nashville,park,Victory Park,36.1662985,-86.7849117,way,130913027
+Nashville,park,Legislative Plaza,36.1643923,-86.7831789,way,130913029
+Nashville,park,Cumberland River Greenway,36.1728614,-86.7840706,way,130913048
+Nashville,university,Tennessee State University‎ - Avon Williams Campus,36.1628844,-86.7867332,way,130913154
+Nashville,park,Centennial Park,36.1498504,-86.8132222,way,130913353
+Nashville,park,Fort Negley,36.1447037,-86.7739421,way,130914050
+Nashville,university,Vanderbilt University,36.1437591,-86.8044474,way,131042264
+Nashville,university,Tennessee State University,36.1679643,-86.8260943,way,131044046
+Nashville,university,Belmont University,36.1327725,-86.7925944,way,185564024
+Nashville,university,Lipscomb University,36.1050508,-86.7984075,way,185564054
+Nashville,stadium,FirstBank Stadium,36.1439094,-86.80891,way,187083446
+Nashville,park,Charlotte Park,36.1545654,-86.8706733,way,192748347
+Nashville,park,Parkwood Park,36.2349547,-86.7713676,way,208763578
+Nashville,park,Fannie Mae Dees Park,36.1367955,-86.8066491,way,210256445
+Nashville,park,Percy Warner Park,36.068534,-86.8856915,way,213538925
+Nashville,park,Alumni Lawn,36.147464,-86.8039855,way,259811259
+Nashville,park,Frederick Douglass Park,36.179203,-86.7620554,way,267098487
+Nashville,mall,Nashboro Village,36.0886509,-86.6477407,way,267200884
+Nashville,mall,,36.0860402,-86.6501806,way,267200979
+Nashville,mall,Global Mall at the Crossings,36.0509899,-86.6562319,way,267203762
+Nashville,mall,,36.0892811,-86.6095534,way,267290589
+Nashville,park,Riverfront Park,36.1653157,-86.7761732,way,267495130
+Nashville,park,Edwin Warner Park - Burch Reserve,36.0699926,-86.9089053,way,269869838
+Nashville,park,J.S. Glover Memorial Park,35.9763014,-77.9738196,way,308464993
+Nashville,museum,Lane Motor Museum,36.140357,-86.7344393,way,308674568
+Nashville,park,William A. Pitts Park,36.0576409,-86.7065782,way,318440584
+Nashville,park,Seven Oaks Park,36.108104,-86.6992132,way,318464975
+Nashville,park,Buena Vista Park,36.192136,-86.8077813,way,318565110
+Nashville,park,Coleman Park,36.1119725,-86.7443218,way,320529844
+Nashville,park,Dudley Park,36.1435389,-86.7651972,way,324485202
+Nashville,park,The Hermitage,36.214131,-86.6125949,way,334219850
+Nashville,park,Shelby Park,36.1693815,-86.7314399,way,336250342
+Nashville,attraction,Shelby Bottoms Nature Center,36.1661051,-86.724942,way,336258647
+Nashville,park,Two Rivers Park,36.1845634,-86.6849389,way,336953520
+Nashville,attraction,Wave Country,36.1869803,-86.6883993,way,336953522
+Nashville,attraction,Nashville Shores Water Park,36.1565517,-86.6064259,way,337524235
+Nashville,park,Riverfront Park,36.1597163,-86.7718652,way,353179708
+Nashville,park,Cumberland Park,36.1647161,-86.7721264,way,353179711
+Nashville,museum,Cooter's,36.2177102,-86.6978649,way,362647003
+Nashville,park,Magnolia Lawn,36.1433843,-86.7984172,way,370611100
+Nashville,park,Flora Wilson Community Plaza,36.1466665,-86.7916353,way,383435352
+Nashville,park,Tony Rose Park,36.1501067,-86.7895119,way,383435400
+Nashville,museum,RCA Studio B,36.1499643,-86.7928744,way,422018714
+Nashville,attraction,The Hermitage,36.2150289,-86.6129797,way,433258649
+Nashville,park,Rose Park,36.1434479,-86.7835331,way,461995022
+Nashville,park,Commerce Center Park,36.1621969,-86.776078,way,461996409
+Nashville,university,Trevecca Nazarene University,36.1420764,-86.7533756,way,464638172
+Nashville,museum,The Johnny Cash Museum & Cafe,36.1608798,-86.7758426,way,464661771
+Nashville,university,Fisk University,36.166909,-86.8040328,way,465481425
+Nashville,university,Meharry Medical College,36.165982,-86.8080911,way,465481427
+Nashville,park,Reservoir Park,36.137484,-86.7811169,way,467549477
+Nashville,park,Lions Park,38.3482726,-89.3753291,way,468205084
+Nashville,park,Green Hills Park,36.095363,-86.8048341,way,468260976
+Nashville,park,Hermitage Park,36.1763948,-86.61524,way,468560676
+Nashville,park,Oakwood Park,36.2152617,-86.7516568,way,468660872
+Nashville,park,Isaac Litton School Park,36.2281575,-86.7241615,way,468746221
+Nashville,park,"Shy's Hill, Battle of Nashville",36.0881472,-86.8090711,way,469267392
+Nashville,park,Smith Springs Public Use Area,36.0892711,-86.600375,way,469631978
+Nashville,park,Una Recreation Park,36.0989579,-86.6389917,way,469632225
+Nashville,park,MetroCenter Levee Greenway,36.1968018,-86.8045357,way,471109532
+Nashville,park,East Park,36.1728833,-86.7604262,way,471109533
+Nashville,park,Ted Rhodes Fields,36.1958326,-86.8136016,way,471109536
+Nashville,park,Bass Park,36.1751639,-86.741631,way,471109537
+Nashville,park,Lockeland Springs Park,36.1761091,-86.7375588,way,471109538
+Nashville,park,Tennessee Tower Plaza,36.1638723,-86.7846747,way,471113158
+Nashville,park,Cedar Hill Park,36.2722687,-86.7453751,way,471241889
+Nashville,park,Bull Run Recreation Area,36.2151005,-86.9918096,way,473988603
+Nashville,park,Madison Park,36.2659278,-86.7008918,way,480317505
+Nashville,park,England Park,36.1559539,-86.8551023,way,486481368
+Nashville,park,Boyd - Taylor Park,36.1605693,-86.8329952,way,486482498
+Nashville,park,Adelicia Park,36.1489705,-86.7978343,way,486666304
+Nashville,park,Sevier Park,36.119288,-86.7892263,way,486695760
+Nashville,park,Gale Lane Comunity Park,36.1166636,-86.7893299,way,486696650
+Nashville,park,Battle of Nashville Monument Park,36.1146508,-86.7925475,way,486696656
+Nashville,park,Richland Park,36.1515564,-86.8446875,way,487116325
+Nashville,park,McFerrin Park,36.1817647,-86.7670297,way,487549697
+Nashville,park,Cleveland Park,36.1887739,-86.7592282,way,487549726
+Nashville,park,Shelby Walk Park,36.1705998,-86.7463451,way,487553179
+Nashville,park,Lock Two Park,36.2443137,-86.7026216,way,488720958
+Nashville,park,Browns Creek Park,36.1136862,-86.7759418,way,489167381
+Nashville,park,Richland Creek Greenway,36.1522495,-86.85453,way,490439130
+Nashville,park,Centennial Dog Park,36.1484357,-86.8185183,way,490448822
+Nashville,park,Owen Bradley Park,36.1516662,-86.791991,way,491464611
+Nashville,mall,100 Oaks Mall,36.1088209,-86.7640459,way,492602975
+Nashville,park,Long Hunter State Park Bryant Grove Area,36.0696787,-86.5073014,way,506836369
+Nashville,mall,Plaza Mariachi,36.0844971,-86.730354,way,510530937
+Nashville,park,Peeler Park,36.2062709,-86.6548093,way,514263108
+Nashville,attraction,Compass,36.1688417,-86.7858175,way,520052511
+Nashville,park,Mildred Shute Minipark,36.1516423,-86.7589698,way,532002896
+Nashville,attraction,Belmont Mansion,36.1356019,-86.7947725,way,543948934
+Nashville,park,Devon Park Community Greenspace,36.0599461,-86.9221351,way,544268925
+Nashville,stadium,Hawkins Field,36.1434337,-86.8075979,way,544413698
+Nashville,park,Ellington Agricultural Center,36.0633139,-86.7450955,way,549773507
+Nashville,park,Hidden Lake Trails | Harpeth River State Park,36.091755,-87.0299215,way,554310099
+Nashville,park,Newsom Station | Harpeth River State Park,36.0798688,-86.996438,way,555256621
+Nashville,park,The Square,31.2067667,-83.2498341,way,556605787
+Nashville,park,First Baptist Park,31.2070349,-83.2528882,way,556605898
+Nashville,park,Heritage Park,31.1994548,-83.247054,way,556606117
+Nashville,park,Carter Park,31.2004293,-83.2378725,way,556606357
+Nashville,park,Tygart Park,31.2017918,-83.2580119,way,556607971
+Nashville,park,Paradise Ridge Park,36.3376419,-86.8600582,way,567560514
+Nashville,park,Nashville City Park,33.9476077,-93.8669754,way,589132391
+Nashville,park,South Park,36.1544539,-86.7662519,way,591973496
+Nashville,park,Watkins Park,36.1625884,-86.7995207,way,592010422
+Nashville,park,William Edmondson Park,36.1594948,-86.7974002,way,592010424
+Nashville,park,Hope Gardens Park,36.1708774,-86.794772,way,592150011
+Nashville,park,Monroe Park,36.173178,-86.7986536,way,592150013
+Nashville,park,Clinton B. Fisk Park,36.1745666,-86.8165026,way,592218220
+Nashville,park,Hadley Park,36.1656922,-86.8222672,way,592218286
+Nashville,park,Elizabeth Park,36.178827,-86.8033884,way,592218677
+Nashville,park,Whitfield Park,36.0666396,-86.7394239,way,593910099
+Nashville,park,Edgehill Park,36.1392303,-86.7893646,way,599981923
+Nashville,park,Flora Wilson Community Park,36.146454,-86.7895654,way,605684096
+Nashville,park,Bells Bend Primitive Camping,36.1540064,-86.9284498,way,609338250
+Nashville,park,Bells Bend Outdoor Classroom,36.1543791,-86.9220208,way,609339076
+Nashville,park,Woodmont Park,36.1186545,-86.8353361,way,609575742
+Nashville,park,Lock One Park,36.1990906,-86.7868309,way,610846617
+Nashville,park,Granbery Park,36.0462708,-86.7542376,way,624800834
+Nashville,park,Putnam Park,42.6094108,-85.0943829,way,627683432
+Nashville,park,Wentworth Caldwell Sr Park,36.0771532,-86.7277796,way,629497355
+Nashville,museum,,36.0625262,-86.7460652,way,633927709
+Nashville,park,Paragon Mills Park,36.0953074,-86.7149019,way,642806881
+Nashville,park,Ezell Soccer Park / Mill Creek Greenway,36.0887275,-86.6807949,way,651235055
+Nashville,park,Millcreek Greenway - Rivendell Park,36.0335086,-86.6718752,way,651597408
+Nashville,park,Mill Creek Greenway,36.0397433,-86.6754574,way,651597409
+Nashville,park,Azafran Park,36.1270825,-86.7540489,way,654503733
+Nashville,park,Harpeth River State Park - Highway 100 Access,36.053873,-86.9298597,way,658253865
+Nashville,museum,Museum of Contemporary Art Nashville (MOCAN),36.18878,-86.7464964,way,665620389
+Nashville,park,Joelton Community Club Park,36.3170509,-86.8701286,way,673391327
+Nashville,park,Sevenmile Park,36.0577409,-86.7459841,way,678308437
+Nashville,park,Millcreek Greenway - Blue Hole Park,36.0602975,-86.6779511,way,678826492
+Nashville,park,Turner School Park,36.1083057,-86.7455829,way,679514657
+Nashville,park,Crieve Hall Baseball CSX Park,36.072466,-86.7671684,way,679651312
+Nashville,park,St. Bernard Park,36.1316572,-86.8024073,way,680948363
+Nashville,park,Seven Mile Creek Greenway - Harding Mall Park,36.0816047,-86.7243322,way,681068755
+Nashville,park,Mill Creek Greenway and Mill Run Park,36.0194222,-86.6842317,way,682343640
+Nashville,park,Mill Creek Park & Greenway,36.0130951,-86.6916288,way,682343641
+Nashville,park,Cane Ridge Park,35.99104,-86.6184164,way,682465825
+Nashville,park,Cecil Rhea Crawford Park,36.0009264,-86.637316,way,682723785
+Nashville,park,Bee Tree Recreation Area,31.2100203,-83.2414294,way,682727353
+Nashville,mall,The Mall at Green Hills,36.1070994,-86.8163937,way,685063843
+Nashville,museum,Tennessee State Museum,36.1724802,-86.7901174,way,695042703
+Nashville,park,TriStar Centennial Medical Center - Centennial Tower,36.1530879,-86.8081903,way,706784141
+Nashville,park,TriStar Centennial Medical Center - Physicans Park,36.1525633,-86.8092377,way,706797056
+Nashville,park,Veteran's Park,36.2644601,-86.6505157,way,711051319
+Nashville,park,Novak Park,36.0255298,-86.7077197,way,713450272
+Nashville,park,Orchard Bend Park - Mill Creek Greenway,36.026474,-86.6690553,way,715706697
+Nashville,park,Antioch Park,36.0551858,-86.6735388,way,715714363
+Nashville,park,Indian Creek Park,36.0113943,-86.6874976,way,721939836
+Nashville,park,Frankie Pierce Park,36.1650936,-86.7898771,way,745164897
+Nashville,park,Alteras Park,36.0190278,-86.704139,way,745214289
+Nashville,park,Reese L. Smith Jr. Park,36.0574881,-86.9323964,way,749838320
+Nashville,park,Ben West Sports Complex,36.161034,-86.6356822,way,752833467
+Nashville,park,H.G. Hill Park,36.1367924,-86.8880277,way,753389556
+Nashville,park,Harpeth River Greenway,36.0605476,-86.9367685,way,754139337
+Nashville,park,Dog Park,35.9826027,-86.6143675,way,758878901
+Nashville,park,Providence Park,36.0922026,-86.7077749,way,760538806
+Nashville,park,Metro Soccer Complex,36.1033056,-86.6800276,way,762936842
+Nashville,park,West Park,36.1613669,-86.8639801,way,764098344
+Nashville,park,Hartman Park,36.2085958,-86.8272769,way,764160097
+Nashville,park,Mullins Park,36.2073493,-86.8474818,way,764177388
+Nashville,park,Bordeaux - Timothy Park,36.2141615,-86.8435748,way,764180742
+Nashville,park,Bordeaux Garden Park,36.1783438,-86.8393862,way,764191890
+Nashville,park,County Cemetary Park,36.1831063,-86.8532361,way,764192722
+Nashville,museum,The Upper Room,36.1475602,-86.7972974,way,766475989
+Nashville,park,Mill Creek Greenway,36.0221758,-86.6728169,way,770103157
+Nashville,park,Edwin Warner Park - Bellevue Road Playground,36.0624884,-86.9177749,way,776353486
+Nashville,stadium,,36.0295804,-86.6187153,way,783534120
+Nashville,park,McCabe Park,36.1427357,-86.8452252,way,839557387
+Nashville,park,Brownstone Park,36.0339863,-86.7546794,way,845315075
+Nashville,park,Knolls Guitar Park,36.0435739,-86.716808,way,851907926
+Nashville,park,Loxley Park,36.0224155,-86.7051823,way,859231837
+Nashville,park,Heaton Park,36.0209599,-86.706921,way,859231838
+Nashville,park,Harpeth Knoll Park,36.0595033,-86.9379603,way,860875033
+Nashville,park,Long Hunter State Park,36.1037999,-86.5471082,way,915530088
+Nashville,park,Edwin Warner Park,36.0542327,-86.9063477,way,931534951
+Nashville,park,Heartland Park,36.1856205,-86.6660623,way,936492482
+Nashville,park,Library Lawn,36.1458069,-86.8013043,way,1050096525
+Nashville,park,Curry Field,36.148674,-86.8010938,way,1050096526
+Nashville,attraction,Madame Tussauds Nashville,36.2048235,-86.693954,way,1051316968
+Nashville,attraction,Great Big Game Show,36.2052682,-86.69423,way,1051316970
+Nashville,attraction,The Escape Game,36.205323,-86.6943014,way,1051316971
+Nashville,mall,,36.2250092,-86.6982517,way,1051637104
+Nashville,mall,,36.2229282,-86.6994663,way,1051637105
+Nashville,mall,,36.2207059,-86.6996951,way,1051637106
+Nashville,mall,,36.2230753,-86.6979603,way,1051637107
+Nashville,stadium,GEODIS Park,36.1300236,-86.7659725,way,1056868015
+Nashville,park,Noble Park,36.153405,-86.7842826,way,1081246553
+Nashville,university,Remington College,36.1523318,-86.6652817,way,1118053576
+Nashville,park,Metro Water Services 3rd Ave Park,36.1862491,-86.7923515,way,1161472822
+Nashville,park,Two Rivers Dog Park,36.1911939,-86.6765073,way,1191857039
+Nashville,museum,Washington County Historical Society Museum,38.3417886,-89.3828036,way,1195563150
+Nashville,park,Mill Ridge Park,36.0256256,-86.6233319,way,1200689477
+Nashville,park,Sundown Drive Dog Park,36.0160129,-86.6693519,way,1201095075
+Nashville,park,Daybreak Drive Dog Park,36.016858,-86.6687104,way,1201095272
+Nashville,park,Anderson Road Public Use Area,36.109,-86.5973956,way,1284320877
+Nashville,park,North Plaza,36.1311823,-86.7668829,way,1385490387
+Nashville,park,Nashville Yards Asension Park,36.1582503,-86.7853722,way,1464423823
+Nashville,park,Ravenwood Park,36.191046,-86.643258,way,1488126825
+Nashville,park,Stone Hall Park,36.187529,-86.6324246,way,1488126826
+Nashville,stadium,,36.1024587,-86.8399079,way,1496737238
+Nashville,park,Elmington Park,36.1337436,-86.8239664,relation,5373297
+Nashville,park,Riverfront Park,36.1630098,-86.773601,relation,7165231
+Nashville,park,Bicentennial Capitol Mall State Park,36.1709434,-86.7876519,relation,9079546
+Nashville,park,Radnor Lake State Natural Area,36.0556008,-86.7971826,relation,9324722
+Nashville,park,Bicentennial Park,36.1662896,-86.7767072,relation,9900936
+Nashville,park,Morgan Park,36.1807989,-86.7899725,relation,20458898
+Philadelphia,park,Philadelphia Park,35.6786868,-84.384647,node,356850295
+Philadelphia,park,Belfield Recreation Center,40.0426116,-75.1523986,node,357276509
+Philadelphia,park,Lonnie Young Recreation Center of East Germantown,40.050088,-75.159215,node,357283944
+Philadelphia,park,Shepard Recreation Center,39.9675033,-75.2344417,node,357288965
+Philadelphia,park,Harpers Hollow Park,40.0420581,-75.1513906,node,357289574
+Philadelphia,park,Tacony Creek Park,40.0159454,-75.0990634,node,357315908
+Philadelphia,park,Waterview Recreation Center,40.0450506,-75.168574,node,357319279
+Philadelphia,park,Wharton Square,39.9355478,-75.1832405,node,357320161
+Philadelphia,park,Suffolk Park,39.9059463,-75.2371265,node,357349526
+Philadelphia,park,Point Breeze Park,39.9040019,-75.1949019,node,357349531
+Philadelphia,park,John L. Bartlett Playground,40.0301118,-75.136287,node,357352796
+Philadelphia,park,Lighthouse Field,40.0081788,-75.1248404,node,357353218
+Philadelphia,park,Frankford Stadium,40.0253988,-75.0883395,node,357372739
+Philadelphia,park,Simons Playground,40.0607,-75.1586,node,357373712
+Philadelphia,park,Francis Finnegan Playground,39.9149,-75.2323,node,357373840
+Philadelphia,park,Northside Park,32.8004109,-89.1089499,node,357941186
+Philadelphia,park,Westside Park,32.7870778,-89.1183943,node,357951253
+Philadelphia,museum,La Salle University Art Museum,40.0374846,-75.1523978,node,367974278
+Philadelphia,museum,Wyck Museum,40.0400086,-75.1784283,node,367974369
+Philadelphia,mall,Market Place East Shopping Center,39.9516911,-75.1527544,node,367975931
+Philadelphia,attraction,Liberty Bell,39.9494654,-75.1502823,node,1207480649
+Philadelphia,museum,Fairmount Water Works Interpretive Center,39.9661894,-75.1835253,node,1847081969
+Philadelphia,museum,The Library Company,39.9478867,-75.1631682,node,2151033537
+Philadelphia,university,University of Pennsylvania,39.9532499,-75.1938411,node,2222508794
+Philadelphia,museum,Mütter Museum,39.9532752,-75.1765473,node,3420767505
+Philadelphia,museum,Museum of the American Revolution,39.9483709,-75.1458446,node,4150740083
+Philadelphia,museum,Fragments of Franklin Court,39.9496708,-75.1465951,node,4150740084
+Philadelphia,attraction,Reading Terminal,39.9532991,-75.1590529,node,4150841871
+Philadelphia,attraction,Italian market,39.9390087,-75.1578351,node,4175144392
+Philadelphia,attraction,Adrian Balboa & Paulie Pennino,40.0037703,-75.1875276,node,4860593806
+Philadelphia,university,Jaffe,39.9527472,-75.192951,node,5349684421
+Philadelphia,museum,Institute of Contemporary Art,39.9540646,-75.194773,node,5368454121
+Philadelphia,museum,Johnson House Historic Site,40.0433544,-75.1812224,node,5429763941
+Philadelphia,museum,New Africa Center,39.9675107,-75.2090515,node,5524144227
+Philadelphia,attraction,The Great Beech,40.0798425,-75.2341405,node,6073969925
+Philadelphia,attraction,Holiday Garden Railway,40.0866139,-75.2201249,node,6073969948
+Philadelphia,attraction,WildWorks Ropes Course,39.9737904,-75.1951991,node,6157737413
+Philadelphia,attraction,Harbison's Dairy Milk Bottle,39.9815673,-75.1321196,node,6240921141
+Philadelphia,attraction,Kelpius Cave,40.0240303,-75.2014125,node,6509008579
+Philadelphia,park,Schuylkill River Park,39.9633097,-75.1809995,node,6621982838
+Philadelphia,museum,Portrait Gallery in the Second Bank,39.9487835,-75.1483813,node,6625307586
+Philadelphia,museum,Benjamin Franklin Museum,39.9495949,-75.1467856,node,6625404453
+Philadelphia,attraction,Discovery Center at East Park Reservoir,39.9827346,-75.1930017,node,6630340319
+Philadelphia,attraction,American Bandstand,39.9583489,-75.2128246,node,6632470609
+Philadelphia,museum,Founder's Hall Museum,39.9737899,-75.170157,node,6639171231
+Philadelphia,museum,Philadelphia Museum of Jewish Art,39.9638329,-75.1608778,node,6639391809
+Philadelphia,museum,Marvin Samson Center for the History of Pharmacy,39.9464991,-75.2081121,node,6658146374
+Philadelphia,museum,Romanian Folk Art Museum,39.9473313,-75.1683258,node,6680708848
+Philadelphia,museum,The Colored Girls Museum,40.0227119,-75.1645063,node,6682531796
+Philadelphia,museum,Paul Robeson House & Museum,39.9566066,-75.2214061,node,6944020724
+Philadelphia,university,University of Pennsylvania School of Veterinary Medicine,39.9508966,-75.200049,node,7009010681
+Philadelphia,museum,Tiberino Museum,39.9615867,-75.1977577,node,7014997902
+Philadelphia,museum,Weaver Historical Dental Museum,40.002016,-75.151905,node,7115722324
+Philadelphia,museum,Underground Railroad Museum at Belmont Mansion,39.9908846,-75.2136636,node,7134774357
+Philadelphia,museum,Museum of Nursing History,40.0395749,-75.1587835,node,7205323624
+Philadelphia,museum,ACES Museum,40.0369616,-75.1756135,node,7221500786
+Philadelphia,museum,Black Writers Museum,40.0358099,-75.1762852,node,7221500810
+Philadelphia,museum,The Museum of the Miraculous Medal Shrine,40.0419539,-75.1676812,node,7223154595
+Philadelphia,museum,Germantown Historical Society,40.0343586,-75.1719155,node,7232030214
+Philadelphia,attraction,The Universal Sphere,39.9549097,-75.1698809,node,7450315070
+Philadelphia,museum,"The Philadelphia Masonic Temple, Library and Museum",39.953569,-75.162285,node,8410366420
+Philadelphia,attraction,U.S. Mint at Philadelphia Tour,39.9529646,-75.1481495,node,8588157992
+Philadelphia,attraction,One Liberty Observation Deck,39.9526043,-75.1683906,node,8591427665
+Philadelphia,attraction,Out on a Limb Tree Canopy Walk,40.0875924,-75.2219541,node,9386902634
+Philadelphia,attraction,Orange Balustrade,40.0875778,-75.2202782,node,9419544161
+Philadelphia,attraction,Azalea Meadow,40.0865485,-75.2188531,node,9419544162
+Philadelphia,attraction,Springhouse,40.0860624,-75.218797,node,9419544163
+Philadelphia,attraction,English Park,40.0850533,-75.2229589,node,9419544164
+Philadelphia,attraction,Magnolia Slope,40.0892616,-75.221473,node,9419544165
+Philadelphia,museum,The Mario Lanza Institute and Museum,39.9324435,-75.1647057,node,9922729738
+Philadelphia,museum,Museum of Illusions Philadelphia,39.9506281,-75.1474521,node,10268934301
+Philadelphia,attraction,Philly Gun Range,39.962052,-75.1537893,node,11106031305
+Philadelphia,museum,Museum for Art in Wood,39.9533851,-75.1448564,node,12235452452
+Philadelphia,museum,Carpenters Museum,39.9635605,-75.1685976,node,13125217417
+Philadelphia,university,Drexel University College of Computing & Informatics,39.956736,-75.1952815,node,13586067530
+Philadelphia,park,Francisville Community Park,39.9690091,-75.1619532,node,13893983401
+Philadelphia,attraction,Elfreth's Alley,39.9527724,-75.1423813,way,12150950
+Philadelphia,museum,Independence Hall,39.9488937,-75.1500195,way,25271595
+Philadelphia,park,Liberty Bell Center,39.9499042,-75.1502536,way,25271691
+Philadelphia,stadium,Xfinity Mobile Arena,39.9011014,-75.171874,way,25312366
+Philadelphia,park,Jefferson Square Park,39.9335912,-75.1501274,way,25430119
+Philadelphia,park,Dickinson Square,39.9276636,-75.15159,way,25430697
+Philadelphia,park,Liberty Lands Park,39.9658704,-75.1418736,way,28311898
+Philadelphia,museum,Philadelphia Museum of Art,39.9655742,-75.1809204,way,28533972
+Philadelphia,park,Matthias Baldwin Park,39.9615929,-75.1689885,way,28533992
+Philadelphia,park,Cianfrani Park,39.9406895,-75.1554114,way,30286018
+Philadelphia,mall,Shops at 40th Street,39.9535536,-75.2032203,way,32120208
+Philadelphia,park,James G. Kaskey Memorial Park,39.9491299,-75.198254,way,32120724
+Philadelphia,park,Clara Muhammad Square,39.9713033,-75.2166836,way,32121247
+Philadelphia,park,Delancey Park,39.9442012,-75.1478358,way,32121468
+Philadelphia,park,Rose Garden,39.9468015,-75.1488533,way,32121517
+Philadelphia,park,Malcolm X Park,39.9526487,-75.2253896,way,32121921
+Philadelphia,museum,Hamilton Mansion,39.9456925,-75.2037357,way,32122035
+Philadelphia,park,Rittenhouse Square,39.9494795,-75.1718862,way,32122312
+Philadelphia,stadium,Philadelphia Stadium,39.9008356,-75.1674648,way,32891768
+Philadelphia,museum,Congress Hall,39.9489794,-75.1506447,way,40083518
+Philadelphia,museum,Old City Hall,39.9488652,-75.1494128,way,40083567
+Philadelphia,museum,National Constitution Center,39.9536317,-75.1491555,way,40083914
+Philadelphia,museum,Liberty Bell Center,39.9498533,-75.1502603,way,40086417
+Philadelphia,museum,Strawberry Mansion,39.9942894,-75.1906127,way,49887255
+Philadelphia,park,Clifford Park,40.0348357,-75.1907882,way,49890663
+Philadelphia,park,Schuylkill River Park,39.9484454,-75.1829349,way,49914024
+Philadelphia,museum,Please Touch Museum,39.9794914,-75.2090399,way,49916202
+Philadelphia,museum,Independence Visitor Center,39.9514971,-75.1499082,way,49961142
+Philadelphia,park,Kane Park,39.9500839,-75.1922664,way,50033056
+Philadelphia,park,48th & Woodland Playground,39.9418705,-75.2102754,way,50108070
+Philadelphia,museum,Fort Mifflin,39.8754485,-75.2128863,way,50114315
+Philadelphia,park,Love Park,39.9541947,-75.1657207,way,50171181
+Philadelphia,museum,Franklin Institute,39.9582431,-75.1731184,way,50189935
+Philadelphia,stadium,Class of 1923 Arena,39.9517345,-75.1870297,way,51062785
+Philadelphia,park,Morris Park,39.979118,-75.2614153,way,59515210
+Philadelphia,park,McMichael Park,40.0181067,-75.1876758,way,60928712
+Philadelphia,park,Wissinoming Park,40.0242435,-75.0685175,way,60931016
+Philadelphia,attraction,,40.0179098,-75.1933935,way,60987204
+Philadelphia,park,Cloverly Park,40.0256438,-75.1807664,way,60990784
+Philadelphia,university,,40.0203328,-75.1916612,way,61109124
+Philadelphia,park,Inn Yard Park,40.0091108,-75.1952993,way,61131409
+Philadelphia,park,Shoemaker Green,39.951146,-75.1896712,way,85321680
+Philadelphia,museum,Philosophical Hall,39.9486412,-75.149453,way,87325391
+Philadelphia,attraction,President's House,39.9504525,-75.1500961,way,87325590
+Philadelphia,attraction,Commandant's Quarters,39.8967566,-75.1770503,way,89434182
+Philadelphia,stadium,,39.9616618,-75.2074575,way,101350674
+Philadelphia,park,George Connell Park,39.9232238,-75.2304132,way,101764466
+Philadelphia,park,Cedar Park,39.948228,-75.2225506,way,105511051
+Philadelphia,park,Girard Park,39.9203563,-75.1831819,way,109198286
+Philadelphia,park,Wakefield Park,40.0334123,-75.1507491,way,115768230
+Philadelphia,park,Kemble Park,40.0400707,-75.1497165,way,115768231
+Philadelphia,university,TECH Center,39.9801168,-75.1531389,way,134472710
+Philadelphia,university,Howard Gittis Student Center,39.9793556,-75.1549756,way,134472712
+Philadelphia,university,Temple University School of Medicine,40.0069874,-75.1521988,way,138014643
+Philadelphia,park,Blanche Levy Park,39.9520285,-75.1940734,way,148162170
+Philadelphia,park,Penn Park,39.9497126,-75.1868097,way,156109656
+Philadelphia,attraction,USS Becuna,39.943533,-75.1411711,way,170349581
+Philadelphia,attraction,USS Olympia,39.9435058,-75.1409967,way,170349584
+Philadelphia,park,Frederick Cione Playground and Aramingo Square,39.9804495,-75.1184942,way,173880366
+Philadelphia,park,Norris Square Park,39.982681,-75.1346908,way,173880379
+Philadelphia,park,Konrad Square,39.9793466,-75.1279436,way,173880380
+Philadelphia,park,Bulldog Park,39.9671292,-75.1789853,way,173959947
+Philadelphia,university,Ritter Hall,39.979372,-75.1559728,way,181924452
+Philadelphia,university,Klein Law Building,39.9798636,-75.1569354,way,181926830
+Philadelphia,university,Engineering Building,39.9823972,-75.1527658,way,181926840
+Philadelphia,museum,Barnes Foundation,39.9606336,-75.1727069,way,183620616
+Philadelphia,museum,Rodin Museum,39.9619295,-75.1739508,way,183625405
+Philadelphia,park,Fitler Square,39.9476033,-75.1797866,way,183666855
+Philadelphia,university,Presser Hall,39.9832258,-75.1542886,way,183996818
+Philadelphia,university,Tyler School of Art,39.9835381,-75.153537,way,183996820
+Philadelphia,park,Founder's Garden,39.9812182,-75.1555708,way,183997399
+Philadelphia,park,Cohocksink Recreation Center,39.9843822,-75.1119885,way,189705631
+Philadelphia,park,Drexel Park,39.9612172,-75.1876174,way,190661733
+Philadelphia,park,Elmwood Park,39.9137518,-75.2377274,way,194523827
+Philadelphia,park,Mifflin Square,39.9194892,-75.1564974,way,194559512
+Philadelphia,park,Pretzel Park,40.0256409,-75.2211807,way,197528040
+Philadelphia,park,Smith Playground,39.9253844,-75.1873257,way,205806063
+Philadelphia,park,Bartram's Garden,39.93195,-75.210745,way,206639847
+Philadelphia,park,Kelly Park,40.041698,-75.2282328,way,210001169
+Philadelphia,park,Cedar Pointe Park,39.9489365,-75.2153491,way,220354825
+Philadelphia,museum,Lemon Hill Mansion,39.9707246,-75.1872029,way,222122351
+Philadelphia,park,McPherson Square,39.9948019,-75.1188538,way,226730865
+Philadelphia,park,Ford Road North Playground,39.9993752,-75.2065194,way,229100072
+Philadelphia,park,La Noce Park,40.017723,-75.2107329,way,229771351
+Philadelphia,mall,Franklin Mall,40.0880116,-74.9615334,way,236460903
+Philadelphia,park,Levy Park,39.9552192,-75.1672187,way,239873210
+Philadelphia,zoo,Philadelphia Zoo,39.971709,-75.1953323,way,239934148
+Philadelphia,park,Germany Hill,40.034755,-75.2315184,way,244421955
+Philadelphia,park,Hillside Recreation Center,40.033475,-75.2296587,way,244423687
+Philadelphia,park,Champions Park,40.0801171,-75.0672261,way,251682604
+Philadelphia,park,Marian Anderson Recreation Center,39.9420195,-75.1716413,way,251980136
+Philadelphia,university,University of the Arts,39.9459814,-75.1659379,way,254159077
+Philadelphia,stadium,Citizens Bank Park,39.9058833,-75.1664422,way,255489463
+Philadelphia,park,Madison War Memorial Park,39.9608183,-75.1411044,way,255714716
+Philadelphia,park,Race Street Pier,39.9530974,-75.1386633,way,259095154
+Philadelphia,museum,New Hall Military Museum,39.9484457,-75.1472347,way,261314255
+Philadelphia,attraction,City Tavern,39.9471345,-75.1445777,way,261314257
+Philadelphia,attraction,First Bank of the United States,39.9480679,-75.1464237,way,261314258
+Philadelphia,attraction,Carpenters' Hall,39.9481415,-75.1472146,way,261314259
+Philadelphia,attraction,Second Bank of the United States,39.948572,-75.14841,way,261314260
+Philadelphia,park,Capitolo Park,39.9338238,-75.1597996,way,264915409
+Philadelphia,park,Cliveden Park,40.051761,-75.1771719,way,266409919
+Philadelphia,park,Carpenter Green,39.9399468,-75.1714879,way,274811882
+Philadelphia,park,Catharine Thorn Park,39.945311,-75.1796322,way,274812891
+Philadelphia,park,Schuylkill Banks,39.9570312,-75.1805376,way,274850199
+Philadelphia,park,Chew Playground,39.9382222,-75.1740943,way,291160794
+Philadelphia,park,Ralph Brooks Park,39.9314615,-75.1777274,way,291456005
+Philadelphia,park,Gold Star Park,39.932905,-75.1551866,way,306841535
+Philadelphia,park,Louis I. Kahn Park,39.945177,-75.1600351,way,308919322
+Philadelphia,museum,Eastern State Penitentiary,39.9683361,-75.1726749,way,320052082
+Philadelphia,park,Palmer Park,39.9748905,-75.1324966,way,323919391
+Philadelphia,park,Hancock Playground,39.9728551,-75.1373632,way,323919393
+Philadelphia,museum,Independence Living History Center,39.9478658,-75.145842,way,332786628
+Philadelphia,museum,Merchants' Exchange Building,39.9472817,-75.1459724,way,332786629
+Philadelphia,museum,Weitzman National Museum of American Jewish History,39.9502011,-75.1484614,way,333012771
+Philadelphia,museum,African American Museum in Philadelphia,39.9532815,-75.1517846,way,333012810
+Philadelphia,mall,The Shops at Liberty Place,39.9519114,-75.1678737,way,333204596
+Philadelphia,museum,Independence Seaport Museum,39.9459185,-75.1404878,way,333776312
+Philadelphia,park,Herron Playground,39.9306833,-75.1485356,way,333776340
+Philadelphia,museum,Pennsylvania Academy of the Fine Arts,39.9552368,-75.1636668,way,333931830
+Philadelphia,park,Hawthorne Park,39.9406759,-75.162813,way,334264435
+Philadelphia,park,Harrowgate Park,39.9992676,-75.1063769,way,334272264
+Philadelphia,park,Samuel Recreation Center,39.9906397,-75.0971459,way,334272278
+Philadelphia,park,Fairhill Square,39.9910902,-75.1389898,way,334272284
+Philadelphia,park,Warriner Post Park,39.9225887,-75.1865583,way,334438164
+Philadelphia,university,Curtis Institute of Music,39.9488135,-75.1706056,way,334598343
+Philadelphia,museum,National Liberty Museum,39.949077,-75.1468412,way,334665979
+Philadelphia,park,Louis Paolone Memorial Park,39.9323407,-75.1569455,way,334890741
+Philadelphia,university,Temple University,39.9808513,-75.1550458,way,335244597
+Philadelphia,museum,Science History Institute,39.9490447,-75.1464739,way,335308190
+Philadelphia,museum,Hill-Physick House,39.9443175,-75.1483923,way,335689515
+Philadelphia,university,Temple University School of Podiatric Medicine,39.9546273,-75.1534889,way,335853630
+Philadelphia,university,Drexel University College Of Medicine,39.9567272,-75.1646808,way,336695656
+Philadelphia,museum,Academy of Natural Sciences of Drexel University,39.9568194,-75.1712643,way,336855435
+Philadelphia,park,Morris Arboretum,40.0882631,-75.2223558,way,336988155
+Philadelphia,park,McVeigh Recreation Center,39.9999685,-75.1217385,way,337127100
+Philadelphia,park,Hope Park,39.9955821,-75.1275875,way,337127105
+Philadelphia,museum,Fireman's Hall Museum,39.9532961,-75.1428059,way,338550400
+Philadelphia,museum,Elfreth's Alley Museum,39.9527083,-75.1424059,way,338853375
+Philadelphia,park,Aviv's Garden,39.9423025,-75.1793567,way,341200203
+Philadelphia,park,Donnelly Park,39.9289354,-75.1494505,way,345044277
+Philadelphia,park,Weccacoe Playground,39.9380318,-75.1507566,way,345044301
+Philadelphia,park,Weinberg Park,39.9212467,-75.1564911,way,345057797
+Philadelphia,park,Tustin Recreation Center,39.9820025,-75.2403081,way,345145159
+Philadelphia,park,Benson Park,39.9734905,-75.1428344,way,351993054
+Philadelphia,park,Dendy Playground,39.9755941,-75.1508937,way,351993062
+Philadelphia,park,Gloria Dei Church National Historic Site,39.9343815,-75.1439635,way,352696201
+Philadelphia,museum,Franklin Print Shop,39.9500313,-75.1466162,way,352987980
+Philadelphia,museum,United States Postal Service Museum,39.9500597,-75.146448,way,352987983
+Philadelphia,museum,Betsy Ross House,39.9522767,-75.1446406,way,353034105
+Philadelphia,museum,Powel House,39.9457758,-75.1469838,way,354970510
+Philadelphia,park,Tiptop Playground,39.9667319,-75.1372021,way,355405958
+Philadelphia,museum,Mount Pleasant,39.9833793,-75.1998402,way,356323017
+Philadelphia,museum,Cedar Grove,39.979179,-75.2044243,way,356324418
+Philadelphia,park,Central Green,39.8939719,-75.1710955,way,366339005
+Philadelphia,park,League Island Park,39.891245,-75.1710789,way,367791451
+Philadelphia,museum,Laurel Hill Mansion,39.9913765,-75.1948531,way,377438263
+Philadelphia,museum,Ormiston Mansion,39.9887049,-75.1962827,way,377438264
+Philadelphia,museum,Woodford Mansion,39.9931695,-75.187843,way,377438311
+Philadelphia,mall,Franklin Market Place,40.0898399,-74.9669392,way,380071959
+Philadelphia,mall,,40.0889088,-74.9662306,way,380071960
+Philadelphia,park,Bradford Park,40.0500818,-75.0542454,way,383115796
+Philadelphia,park,Dewitt-Deweese Memorial Park,32.7712852,-89.1141676,way,385775790
+Philadelphia,park,29th and Passyunk Playground,39.9215184,-75.1946606,way,398456590
+Philadelphia,park,Russo Park,40.0300525,-75.0331862,way,403749822
+Philadelphia,park,John F. Collins Park,39.9517575,-75.1690397,way,410094482
+Philadelphia,park,Dilworth Park,39.9526204,-75.1646782,way,410095875
+Philadelphia,park,Franklin Delano Roosevelt Park,39.9020267,-75.1834357,way,433062771
+Philadelphia,park,Vendemmia Square,39.9076732,-75.1804188,way,433110473
+Philadelphia,park,CHP Courtyard,39.9263555,-75.1698126,way,440194600
+Philadelphia,mall,,39.9139368,-75.1519931,way,444797509
+Philadelphia,park,Butterfly Park,40.074855,-75.0100251,way,458744472
+Philadelphia,park,Triangle Park,39.9833964,-75.2320318,way,465462423
+Philadelphia,park,Calvary AA Field,40.0806059,-74.9747367,way,468583515
+Philadelphia,park,Sherwood Grounds,39.974702,-75.272157,way,468587971
+Philadelphia,park,Temple University Skate Spot,39.9789271,-75.1572113,way,468588943
+Philadelphia,park,Johnny Ring Terrace,39.9825094,-75.1565696,way,469105229
+Philadelphia,park,MLK Park,39.9629801,-75.2022541,way,469216034
+Philadelphia,park,Einstein Community Park,40.0370963,-75.1407327,way,469426312
+Philadelphia,park,Shevchenko Park,40.0344691,-75.1453009,way,469428383
+Philadelphia,park,Hetzell Playground,39.9723284,-75.1310018,way,477007732
+Philadelphia,park,10th & Lemon Playground,39.9635176,-75.1547206,way,479588986
+Philadelphia,museum,Schuylkill Center for Environmental Education Visitor Center,40.0557264,-75.2521462,way,484365937
+Philadelphia,museum,Mummers Museum,39.9334474,-75.1475665,way,486443341
+Philadelphia,park,Pleasant Hill Park,40.0423527,-74.9920746,way,486567855
+Philadelphia,attraction,Chinatown Friendship Gate,39.9537194,-75.1562651,way,486671294
+Philadelphia,museum,Wagner Free Institute of Science,39.9805956,-75.1628977,way,488326169
+Philadelphia,park,Fluehr Park,40.0541553,-74.9895014,way,491180568
+Philadelphia,park,Glen Foerd on the Delaware,40.0518651,-74.9804666,way,491398982
+Philadelphia,museum,Glen Foerd Mansion,40.0517119,-74.9789669,way,491398993
+Philadelphia,park,George Jacobs Playground,40.0512644,-75.0021656,way,491706460
+Philadelphia,museum,Ryerss Museum & Library,40.0686069,-75.0886742,way,493798753
+Philadelphia,attraction,Laurel Hill Cemetery Gatehouse,40.0041946,-75.1876176,way,494289213
+Philadelphia,park,James Allen Shuler Playground,40.0022213,-75.1750457,way,495573023
+Philadelphia,park,Merritt Square Park,40.0041155,-75.102481,way,498396407
+Philadelphia,park,Ringgold Square,40.0012954,-75.1705244,way,498396620
+Philadelphia,park,Etting Square,40.0058597,-75.1742092,way,498397130
+Philadelphia,park,Donald Finnegan Playground,39.9379681,-75.1928081,way,505597418
+Philadelphia,university,Temple University,39.9812455,-75.156272,way,509782889
+Philadelphia,university,Temple University - Health Sciences Campus,40.0046013,-75.151578,way,513225933
+Philadelphia,park,Cira Green,39.9526664,-75.1833712,way,515641165
+Philadelphia,park,Hissey Playground,39.9942346,-75.123473,way,520706451
+Philadelphia,park,12th & Cambria Playground,39.9968284,-75.1492481,way,521262213
+Philadelphia,park,Nelson Playground,39.9891088,-75.1381957,way,521268455
+Philadelphia,park,Glavin Playground,39.9864611,-75.1014009,way,521268456
+Philadelphia,park,Heitzman Recreation Center,39.9977516,-75.0983706,way,521268457
+Philadelphia,park,Lions Park,40.0764556,-75.0854566,way,523908887
+Philadelphia,park,Fox Chase Recreation Center,40.0734098,-75.0813546,way,523908890
+Philadelphia,university,,40.0559563,-74.9849588,way,535767709
+Philadelphia,university,Holy Family University,40.0598553,-74.986432,way,535767711
+Philadelphia,park,Stokley Playground,39.9822508,-75.1069947,way,538863102
+Philadelphia,park,Powers Park,39.982541,-75.1088862,way,538863524
+Philadelphia,park,Helen G. Sturgis Park,40.0490024,-75.1238725,way,546711055
+Philadelphia,park,Fairview Park,40.0304119,-75.2201768,way,549814986
+Philadelphia,park,13th & Poplar Street Square,39.9693423,-75.157473,way,551168704
+Philadelphia,park,Ned Wolf Park,40.0488893,-75.196588,way,552250404
+Philadelphia,park,Allen's Lane Park,40.0519422,-75.2029211,way,552250567
+Philadelphia,park,Northwood Park,40.0232979,-75.0921432,way,555876065
+Philadelphia,stadium,Charles Martin Memorial Stadium,40.0572286,-75.0681564,way,564866479
+Philadelphia,park,Finley Playground,40.0648007,-75.1695595,way,576427152
+Philadelphia,park,Holme Crispin Park,40.0574825,-75.0203643,way,582840423
+Philadelphia,park,The Rail Park,39.9595709,-75.1587938,way,583267164
+Philadelphia,park,June 5th Memorial Park,39.953705,-75.1766168,way,595520250
+Philadelphia,park,Ross Park,39.9993879,-75.1467125,way,601165353
+Philadelphia,park,Maguire Playground,39.9916149,-75.1330456,way,601432345
+Philadelphia,park,Disston Park,40.0218207,-75.042851,way,628147757
+Philadelphia,park,Dorsey Playground,40.0213709,-75.0485995,way,628165352
+Philadelphia,park,Roosevelt Playground,40.0256301,-75.0540732,way,628165676
+Philadelphia,park,Burholme Park,40.0685771,-75.0920019,way,629339154
+Philadelphia,park,Bridesburg Recreation Center,39.9991968,-75.0675357,way,630379738
+Philadelphia,park,Poquessing Creek Park,40.1135817,-74.9652468,way,631677970
+Philadelphia,park,Michael J Towey Playground,39.9784328,-75.1351285,way,633059580
+Philadelphia,park,Junod Playground,40.1042887,-74.96955,way,633129097
+Philadelphia,park,Tarken Recreation Center,40.0409771,-75.0824057,way,636575256
+Philadelphia,park,Houseman Playground,40.0291562,-75.0937743,way,636577985
+Philadelphia,mall,Philadelphia Mills,40.0877801,-74.9611216,way,637562485
+Philadelphia,park,Daniel Boyle Recreational Center,40.1225414,-75.0075736,way,648226279
+Philadelphia,park,Lower Mayfair Playground,40.0293569,-75.0610452,way,648231598
+Philadelphia,park,Emerald Park,39.9837997,-75.1310128,way,654268293
+Philadelphia,attraction,"Pennsylvania Railroad, Connecting Railway Bridge",39.9759536,-75.1945672,way,657414356
+Philadelphia,park,Piccoli Park,40.0124574,-75.0965915,way,659636135
+Philadelphia,park,Trumbette Playground,40.0486872,-75.0041377,way,659703760
+Philadelphia,park,Somerton Woods,40.1156086,-75.0132657,way,660702958
+Philadelphia,park,General Pulaski Park,39.9778252,-75.0968142,way,665029965
+Philadelphia,stadium,Franklin Field,39.9500721,-75.1899749,way,665447049
+Philadelphia,park,Kendrick Recreation Center,40.0288331,-75.2117856,way,666512341
+Philadelphia,park,Ziehler Playground,40.034172,-75.1188186,way,669540699
+Philadelphia,park,Sherwood Park,39.9467777,-75.2369422,way,672503503
+Philadelphia,park,Fisher Park,40.0432576,-75.1317177,way,678037223
+Philadelphia,park,Womrath Park,40.0084009,-75.0907039,way,686445035
+Philadelphia,attraction,Shofuso Japanese House and Garden,39.9813009,-75.2128119,way,688647034
+Philadelphia,park,Mario Lanza Park,39.9374202,-75.1473084,way,697559370
+Philadelphia,park,Athletic Square,39.9777759,-75.1788348,way,699257750
+Philadelphia,park,30th & Jefferson Playground,39.9796173,-75.1845098,way,699257751
+Philadelphia,park,Mayfair Park,40.0402322,-75.0534671,way,702992202
+Philadelphia,mall,,40.0374992,-75.1179749,way,704341384
+Philadelphia,mall,,40.0387563,-75.1189327,way,704419952
+Philadelphia,park,Carroll Park,39.9710229,-75.2367249,way,704719187
+Philadelphia,park,Shepard Recreation Center,39.9670494,-75.2347529,way,704719361
+Philadelphia,park,Campbell Square,39.9862686,-75.1033798,way,704719575
+Philadelphia,park,Wanamaker Street Playground,39.9751545,-75.2370677,way,705032538
+Philadelphia,park,Granahan Playground,39.9687892,-75.2508721,way,705032539
+Philadelphia,park,Philadelphia Stars Negro League Memorial Park,39.9777121,-75.2138171,way,705043626
+Philadelphia,park,Clayborn and Lewis Playground,39.9734709,-75.1989614,way,705043635
+Philadelphia,park,Kopernicus Triangle,39.956722,-75.168645,way,705174224
+Philadelphia,park,Cret Park,39.9554515,-75.1668919,way,705174226
+Philadelphia,park,Aviator Park,39.9580496,-75.1718001,way,705174234
+Philadelphia,park,Philadelphia Korean War Memorial,39.9447649,-75.1430256,way,705214898
+Philadelphia,park,Addison Street Park,39.9436956,-75.1546325,way,705214899
+Philadelphia,park,Head House Square,39.9426416,-75.145361,way,705214912
+Philadelphia,park,Seger Park,39.9435961,-75.1592634,way,705214915
+Philadelphia,park,Shot Tower Recreation Center,39.9349721,-75.1460449,way,705214918
+Philadelphia,park,Bainbridge Green,39.9405534,-75.148627,way,705214919
+Philadelphia,park,Palumbo Park,39.9392724,-75.1556226,way,705214920
+Philadelphia,park,Starr Garden Park,39.9427752,-75.1529842,way,705214922
+Philadelphia,park,Washington Avenue Green,39.9321824,-75.1414965,way,705217828
+Philadelphia,park,Bainbridge Green,39.9407454,-75.1501076,way,705302446
+Philadelphia,park,Bingham Court,39.9461553,-75.147609,way,705306669
+Philadelphia,park,Welcome Park,39.947306,-75.1439625,way,705309588
+Philadelphia,park,Commerce Street Walk,39.9509608,-75.1466894,way,705312282
+Philadelphia,park,Girard Fountain Park,39.9526074,-75.1462578,way,705312288
+Philadelphia,park,Betsy Ross House,39.9524041,-75.1447096,way,705312295
+Philadelphia,park,Christ Church Park,39.9509578,-75.1438548,way,705312981
+Philadelphia,park,Washington Square,39.9470499,-75.1523174,way,705317585
+Philadelphia,park,Vine Street Park,39.9568422,-75.1456485,way,705321433
+Philadelphia,park,Franklin Square,39.9556633,-75.1504437,way,705322048
+Philadelphia,park,110 Fairmount Ave Park,39.9612895,-75.1393027,way,705322835
+Philadelphia,park,Northern Liberties Recreation Center,39.9627792,-75.143522,way,705323225
+Philadelphia,park,Edgar Allan Poe National Historic Site,39.9619574,-75.1499679,way,705324151
+Philadelphia,museum,The John Coltrane House,39.9803177,-75.1885645,way,705646448
+Philadelphia,park,Strawberry Mansion Playground,39.9950502,-75.1869515,way,705790704
+Philadelphia,museum,National Marian Anderson Museum,39.9423776,-75.1749459,way,705850337
+Philadelphia,park,Ingersoll Park,39.9745042,-75.162404,way,705857926
+Philadelphia,park,Martin Luther King Jr. Recreation Center,39.9810474,-75.1699177,way,706254706
+Philadelphia,park,North Philly Peace Park,39.9774098,-75.1720392,way,706527892
+Philadelphia,park,Clemente Park & Playground,39.9656795,-75.1680859,way,706527898
+Philadelphia,park,Ben-Gurion Place,39.9510948,-75.1479091,way,706528079
+Philadelphia,park,Francisville Playground,39.9684575,-75.1672511,way,706543045
+Philadelphia,park,Stiles Street Play Lot,39.9727283,-75.1628626,way,706570991
+Philadelphia,park,Cruz Recreation Center,39.9734059,-75.1451324,way,706728942
+Philadelphia,park,Fort Mifflin,39.8744207,-75.2134315,way,707348748
+Philadelphia,park,Burke Playground,39.9212536,-75.1504944,way,707353573
+Philadelphia,park,Riverfront Greenway,39.8874888,-75.1676723,way,707505302
+Philadelphia,park,Dry Dock Park,39.8879572,-75.1773874,way,707505313
+Philadelphia,park,Crescent Park,39.8966878,-75.1747274,way,707505843
+Philadelphia,park,Marine Parade Grounds,39.8926998,-75.1754032,way,707505844
+Philadelphia,park,Mollbore Terrace and 8th St,39.9147942,-75.161154,way,708075132
+Philadelphia,park,Mollbore Terrace Park (11th St),39.9154013,-75.165886,way,708075134
+Philadelphia,park,Mollbore Terrace Park,39.9157053,-75.1682293,way,708075135
+Philadelphia,park,Guerin Recreation Center,39.9228909,-75.1729219,way,708082281
+Philadelphia,park,18th and Jackson War Memorial,39.9240984,-75.1766152,way,708409340
+Philadelphia,park,Bartram's North,39.9389758,-75.2063856,way,708549356
+Philadelphia,park,56th Street Plaza,39.9270155,-75.213065,way,708549361
+Philadelphia,park,47th & Grays Ferry Park,39.9414791,-75.2088197,way,708551632
+Philadelphia,park,40th St Trolley Portal Gardens,39.9494673,-75.202792,way,708556066
+Philadelphia,park,Titan Park,39.9317171,-75.1467109,way,709057222
+Philadelphia,park,Greble Post Park Memorial,39.9309047,-75.1498373,way,709057224
+Philadelphia,park,Howard and Reed Park,39.9302955,-75.1468377,way,709057226
+Philadelphia,park,Sacks Playground,39.9339394,-75.1517324,way,709059180
+Philadelphia,park,Ford Recreation Center,39.9230606,-75.1573619,way,709060877
+Philadelphia,park,Lanier Park,39.9331299,-75.1937438,way,709271087
+Philadelphia,park,Stinger Park,39.9361488,-75.1978163,way,709276885
+Philadelphia,park,Schuylkill Banks,39.946703,-75.1861718,way,709548763
+Philadelphia,park,Julian Abele Park,39.9409115,-75.1792954,way,709564096
+Philadelphia,park,Taylor Street Park,39.9346942,-75.1854845,way,709564102
+Philadelphia,park,Wharton Square,39.9355415,-75.1832429,way,709564104
+Philadelphia,museum,The Rosenbach Museum & Library,39.9473534,-75.1750226,way,709564106
+Philadelphia,university,Drexel University Queens Lane Campus,40.0203401,-75.1799208,way,710744564
+Philadelphia,park,Kay Park,40.0219468,-75.166629,way,710791425
+Philadelphia,park,Happy Hollow Recreation Center,40.023811,-75.1665203,way,710791426
+Philadelphia,park,Ridgway Park,39.9393092,-75.1645642,way,711148850
+Philadelphia,university,University of the Arts,39.9460229,-75.1659202,way,711161005
+Philadelphia,park,Columbus Square,39.9331801,-75.1647873,way,711174763
+Philadelphia,park,Bardacino Park,39.93788,-75.1599449,way,711174764
+Philadelphia,park,East Passyunk Community Recreation Center,39.9264701,-75.1634486,way,711187175
+Philadelphia,park,Neighbors Park,40.0216177,-75.2131398,way,712075658
+Philadelphia,park,Beck Park,39.9365267,-75.1464348,way,724590130
+Philadelphia,park,Fishtown Recreation Center,39.9718107,-75.1280641,way,727926845
+Philadelphia,park,Eastwick Regional Park Playground,39.9045077,-75.2516611,way,734248433
+Philadelphia,park,Cibotti Park,39.9082566,-75.2489816,way,734257112
+Philadelphia,park,McCreesh Playground,39.9263071,-75.2399011,way,735373109
+Philadelphia,park,60th & Baltimore Park,39.9446703,-75.2440478,way,741750121
+Philadelphia,park,Christy Recreation Center,39.9487132,-75.2343843,way,741752941
+Philadelphia,park,Morris Recreation Center,39.9565823,-75.2387085,way,741764051
+Philadelphia,park,Francis J. Myers Recreation Center,39.9345267,-75.2288702,way,741770967
+Philadelphia,park,Fields at 58th and Elmwood,39.929272,-75.2222455,way,741772326
+Philadelphia,park,Pepper School Playground,39.8970236,-75.2488675,way,741774799
+Philadelphia,park,82nd & Lyons Park,39.8979706,-75.24595,way,741774802
+Philadelphia,park,Suffolk Park,39.9063003,-75.2371581,way,741774958
+Philadelphia,park,Clearview Park,39.908281,-75.2460282,way,741775419
+Philadelphia,park,Sansom Street Play Lot,39.9563494,-75.2157873,way,741777382
+Philadelphia,park,49th & Spruce Play Lot,39.9543531,-75.2189998,way,741777384
+Philadelphia,park,Ben Barkan Park,39.9538115,-75.2216235,way,741777385
+Philadelphia,park,Frankford Playground,40.0246729,-75.0800356,way,742766817
+Philadelphia,park,Fotterall Square,39.9895442,-75.1508613,way,743199292
+Philadelphia,park,Max Paul Park,39.958343,-75.2135572,way,743205247
+Philadelphia,park,Lee Park,39.9616087,-75.2103311,way,743211865
+Philadelphia,park,Deritis Playground,39.9316336,-75.2203677,way,743531435
+Philadelphia,park,63rd & Lindbergh Park,39.9203271,-75.223631,way,743531436
+Philadelphia,park,Buist Park,39.9187183,-75.2331574,way,743533051
+Philadelphia,park,Francis Finnegan Playground,39.9148826,-75.2312977,way,743533060
+Philadelphia,park,Molbrook & Muhfeld Street Park E,39.9147263,-75.2359038,way,743533943
+Philadelphia,park,Kingsessing Park,39.9427719,-75.2171503,way,743540322
+Philadelphia,stadium,Marcus Foster Memorial Stadium,40.017202,-75.1529734,way,743544173
+Philadelphia,park,Carlisle & Hunting Park,40.0172688,-75.1505949,way,743544224
+Philadelphia,park,Spruce Hill Bird Sanctuary,39.9537278,-75.2125765,way,743695066
+Philadelphia,park,Wister Playground,40.0325766,-75.1603641,way,744181470
+Philadelphia,park,Loudoun Park,40.025878,-75.1612276,way,744183075
+Philadelphia,park,Clarkson Park,40.0365051,-75.145052,way,744185620
+Philadelphia,park,Harper's Hollow Park,40.0421187,-75.1513466,way,744185635
+Philadelphia,park,Cherashore Park,40.0380503,-75.1364523,way,744186212
+Philadelphia,park,Simons Playground,40.0609735,-75.1582513,way,744187329
+Philadelphia,park,Awbury Park,40.053647,-75.1632563,way,744189771
+Philadelphia,park,Olney Recreation Center,40.0426502,-75.1169292,way,744193292
+Philadelphia,park,Dorothy Emanuel Recreation Center,40.0815709,-75.1759183,way,744193691
+Philadelphia,park,John L. Bartlett Playground,40.0304108,-75.1358153,way,746774444
+Philadelphia,park,Lardner's Point Park,40.0142379,-75.0470812,way,746793108
+Philadelphia,park,Frankford Arsenal Boat Launch,40.0071956,-75.0571087,way,746793112
+Philadelphia,park,Horton Street Play Lot,39.9661775,-75.2432854,way,747063282
+Philadelphia,park,West Mill Creek Playground,39.9697891,-75.2257704,way,747176457
+Philadelphia,park,West Mill Creek Playground,39.9677744,-75.2234443,way,747176475
+Philadelphia,park,Nichols Park,39.9634368,-75.2296281,way,747176507
+Philadelphia,park,Hamilton Field,39.9526301,-75.2008782,way,748810756
+Philadelphia,park,Saunders Park,39.9600061,-75.1993203,way,748881366
+Philadelphia,park,37th and Mt. Vernon Playground,39.9639734,-75.1964847,way,750567255
+Philadelphia,park,James Lee Wright Recreation Center,39.9638531,-75.1911154,way,753358501
+Philadelphia,park,33rd & Wallace Playground,39.9650629,-75.1908787,way,753358503
+Philadelphia,park,Miles Mack Playground,39.967614,-75.1958848,way,753388657
+Philadelphia,park,Fairmond Ave Park West,39.9659108,-75.1977687,way,753388668
+Philadelphia,park,39th and Olive Playground,39.9659516,-75.2009335,way,753388671
+Philadelphia,park,Belmont School Playground,39.966294,-75.2047675,way,753601708
+Philadelphia,park,East Parkside Tot Lot,39.9728377,-75.2065506,way,753805209
+Philadelphia,park,Mill Creek Playground,39.9658302,-75.2159737,way,753811302
+Philadelphia,park,52nd Street Playground,39.9738908,-75.2266172,way,754328603
+Philadelphia,park,Conestoga Community Playground,39.9752907,-75.2277254,way,754328604
+Philadelphia,park,Charles A. Baker Playground,39.9773817,-75.2312295,way,754328608
+Philadelphia,park,Wissahickon War Memorial,40.0167995,-75.2098927,way,756110338
+Philadelphia,park,Vernon Park,40.0358155,-75.1767078,way,758768179
+Philadelphia,park,Fish Plaza Park,40.0106996,-75.1511658,way,761370414
+Philadelphia,park,Heritage Park Playground,40.0006666,-75.1556264,way,761601617
+Philadelphia,park,Charles A. Papa Playground,39.9748771,-75.2570655,way,762547307
+Philadelphia,park,Woodside Park,40.0019908,-75.2082824,way,763271150
+Philadelphia,museum,Rittenhouse Homestead,40.0294753,-75.1897239,way,766332777
+Philadelphia,park,Blue Bell Park,40.0312399,-75.1950399,way,766332787
+Philadelphia,park,Venice Island,40.0234412,-75.2214551,way,767409998
+Philadelphia,park,Ottinger Tract,40.0454513,-75.2524364,way,767410384
+Philadelphia,park,Manayunk Canal,40.0331314,-75.2349295,way,767411788
+Philadelphia,park,Roxborough Pocket Park,40.0349566,-75.2172137,way,767642854
+Philadelphia,park,Edling Park,40.024311,-75.2152602,way,767644083
+Philadelphia,park,Al Pearlman Sports Center,40.0610256,-75.242834,way,767734661
+Philadelphia,park,Al Pearlman Sports Center,40.0591608,-75.2404021,way,767734662
+Philadelphia,park,Old Line Park,40.0677889,-75.2372466,way,767922362
+Philadelphia,park,Buckley Park,40.0735077,-75.202519,way,768655539
+Philadelphia,park,Pastorius Park,40.071022,-75.2052761,way,768655541
+Philadelphia,park,Houston Playground,40.0691938,-75.2311636,way,768658370
+Philadelphia,park,Wissahickon East,40.0694773,-75.1914065,way,769174706
+Philadelphia,museum,Benjamin Chew House,40.0473748,-75.1811891,way,769183305
+Philadelphia,park,Cliveden National Historic Landmark,40.0472062,-75.181533,way,769183306
+Philadelphia,park,Rumph Playground,40.04803,-75.179218,way,769204414
+Philadelphia,museum,Ebenezer Maxwell Mansion,40.038195,-75.1836161,way,769416757
+Philadelphia,park,Market Square,40.0342984,-75.1722634,way,769419311
+Philadelphia,museum,Germantown White House,40.0338451,-75.1723029,way,769419313
+Philadelphia,park,Morton Playground,40.0399228,-75.1743089,way,769420461
+Philadelphia,park,Stenton Park,40.0246334,-75.152828,way,769762027
+Philadelphia,museum,Stenton Mansion,40.0249344,-75.1535981,way,769762028
+Philadelphia,park,Mount Airy Playground,40.0579753,-75.187835,way,770474643
+Philadelphia,park,Lovett Park,40.0566308,-75.1874723,way,770773875
+Philadelphia,park,Dodge Tract,40.0590438,-75.2110767,way,770905958
+Philadelphia,park,Pleasant Playground,40.0573822,-75.1821051,way,770975972
+Philadelphia,museum,The Concord School House,40.0437932,-75.1809978,way,771164457
+Philadelphia,mall,Fashion District Philadelphia,39.9519872,-75.1558316,way,771706289
+Philadelphia,park,Morris Estate Recreation Center,40.0504208,-75.1467648,way,771795867
+Philadelphia,park,Lonnie Young Recreation Center of East Germantown,40.0500587,-75.1592212,way,771810967
+Philadelphia,park,Waterview Recreation Center,40.0449818,-75.1683628,way,771813461
+Philadelphia,park,Wister's Woods Park,40.0347567,-75.1559985,way,771818964
+Philadelphia,park,Singing Fountain (Park),39.9299544,-75.1632256,way,771901445
+Philadelphia,park,Daly Park,39.9997318,-75.1503857,way,773609395
+Philadelphia,park,Reed Playground,40.002554,-75.1333057,way,773612225
+Philadelphia,park,Rivera Recreation Center,40.0005185,-75.137371,way,773612231
+Philadelphia,park,Schmidt Playground,40.0020012,-75.1293505,way,773615749
+Philadelphia,park,Jose Manuel Collazo Park,39.9995761,-75.1305879,way,773615753
+Philadelphia,park,Price Street Play Lot,40.0331784,-75.1800238,way,773877099
+Philadelphia,museum,Grumblethorpe,40.0321175,-75.1684102,way,774690732
+Philadelphia,park,Gilbert Stuart Park,40.0307586,-75.166885,way,774707850
+Philadelphia,park,Howell Park,40.0304198,-75.168632,way,774707852
+Philadelphia,park,Bringhurst Park,40.0335208,-75.1653924,way,774709745
+Philadelphia,park,Newhall Park,40.0273416,-75.1744766,way,776596303
+Philadelphia,park,Wister's Woods Park,40.0334229,-75.1520439,way,778072576
+Philadelphia,park,Vaux and Warden Street Park,40.0181095,-75.1915543,way,781996197
+Philadelphia,park,Vincent G. Panati Playground,40.0020238,-75.1657466,way,782011112
+Philadelphia,park,Hunting Park,40.0169364,-75.1436295,way,783708111
+Philadelphia,park,Wingohocking Park,40.020399,-75.1447378,way,783708119
+Philadelphia,park,Nicetown Triangle,40.0208974,-75.1570727,way,783994841
+Philadelphia,park,Nicetown Park,40.019851,-75.1550291,way,783994843
+Philadelphia,park,Tacony Creek Park,40.0335587,-75.1089135,way,784022730
+Philadelphia,park,Juniata Park,40.0152313,-75.1041747,way,784022734
+Philadelphia,park,Fletcher B. Amos Playground,39.9817198,-75.1602712,way,784938770
+Philadelphia,park,Hamilton Park,40.0090658,-75.1382439,way,785221553
+Philadelphia,park,Butler & Percy Play Lot,40.0100421,-75.1431831,way,785222735
+Philadelphia,park,Three Logan Square Plaza,39.9558078,-75.1690066,way,785231115
+Philadelphia,park,Cecil B. Moore Recreation Center,39.9936033,-75.1676154,way,786019375
+Philadelphia,park,Reyburn Park,39.9942214,-75.1654629,way,786019380
+Philadelphia,park,Winchester Playground,39.9888287,-75.157796,way,786025367
+Philadelphia,park,8th & Diamond Playground,39.9831195,-75.1474884,way,786048641
+Philadelphia,park,Penrose Playground,39.9860259,-75.1516323,way,786049187
+Philadelphia,park,La Placita Park at Borinquen Plaza,39.9804353,-75.1430363,way,786055045
+Philadelphia,stadium,Frankford Stadium,40.025415,-75.0883229,way,786954863
+Philadelphia,park,Rutland Playground,40.0266762,-75.0871529,way,786954864
+Philadelphia,park,Orthodox Street Parcel,39.9915374,-75.0665855,way,787208677
+Philadelphia,park,Frankford & Pennypack Park,40.0470011,-75.0140124,way,787755624
+Philadelphia,park,Susan Ann Detscher Pizzano Fountain Plaza,40.0775685,-75.2090683,way,788031678
+Philadelphia,park,Lucien E. Blackwell Park,39.9653423,-75.2147813,way,789704463
+Philadelphia,park,Princeton Avenue Boat Launch,40.0201701,-75.0335276,way,789720168
+Philadelphia,park,Officer Robert Hayes Memorial Playground Woods,40.090402,-75.0214488,way,792706145
+Philadelphia,park,Chalmers Park,39.9997603,-75.1793766,way,794942246
+Philadelphia,university,Drexel University College of Nursing and Health Professions,39.9560426,-75.1669283,way,795443090
+Philadelphia,university,Drexel University - Center City Campus,39.9576079,-75.1638461,way,795452861
+Philadelphia,park,20th & Tioga Field,40.007851,-75.1619017,way,797682384
+Philadelphia,park,Jerome Brown Playground,40.0065704,-75.1612767,way,797682385
+Philadelphia,park,Napa Street Playground,39.9955923,-75.182505,way,803410238
+Philadelphia,park,York Street Mini Park,39.9913368,-75.1719197,way,803424176
+Philadelphia,park,Scanlon Recreation Center,40.0014123,-75.1078716,way,803486252
+Philadelphia,park,Ramblers Recreation Center,40.002015,-75.1132306,way,803486260
+Philadelphia,park,Independence Square,39.9483826,-75.1501461,way,805522106
+Philadelphia,museum,Thaddeus Kosciuszko National Memorial,39.9434672,-75.1473056,way,805538962
+Philadelphia,park,I-95 Park,39.9355018,-75.1450559,way,813663495
+Philadelphia,park,Grays Ferry Crescent Trail Park,39.941262,-75.2009342,way,864023846
+Philadelphia,park,"South Garden, Fairmount Water Works",39.9652624,-75.1830217,way,865727861
+Philadelphia,park,Esplanade,39.9652212,-75.1833183,way,865756674
+Philadelphia,park,East Poplar Playground,39.9668696,-75.151246,way,872787186
+Philadelphia,park,Black-Coyle-McBride Playground,39.9838426,-75.1234672,way,876443277
+Philadelphia,museum,Philadelphia Doll Museum,39.9876807,-75.1554438,way,908899143
+Philadelphia,park,The Rose Garden,39.9725363,-75.1340692,way,908912921
+Philadelphia,park,Overington Park,40.0169944,-75.088273,way,913356406
+Philadelphia,museum,St. George's United Methodist Church House Museum and Library,39.9553121,-75.1457223,way,925375443
+Philadelphia,park,God is Great Park,39.9700163,-75.206438,way,946954145
+Philadelphia,museum,,39.9109102,-75.2266214,way,951684930
+Philadelphia,park,Hagert Playground,39.9835149,-75.1282094,way,963558008
+Philadelphia,park,Waterloo Playground,39.9886247,-75.1329338,way,963784101
+Philadelphia,park,3rd and Norris Playground,39.9811021,-75.1393703,way,963787756
+Philadelphia,park,Diamond Park,39.9852851,-75.162779,way,964095790
+Philadelphia,park,Casiano Field,39.9858389,-75.1396638,way,964185535
+Philadelphia,park,Frank McArdle Memorial Recreation Center,40.0610012,-75.026428,way,965689187
+Philadelphia,park,Pennypack Environmental Center,40.087515,-75.0591215,way,976024423
+Philadelphia,park,White Hall Commons,40.0141047,-75.0756575,way,977223209
+Philadelphia,museum,Woodmere Art Museum,40.0831307,-75.2194589,way,988345364
+Philadelphia,park,Glendinning Rock Garden,39.9764442,-75.1912248,way,992298575
+Philadelphia,park,"CPL. Charles J. Glenn, 3rd USMC Memorial",39.9687149,-75.1309842,way,1021696732
+Philadelphia,park,22nd and Ontario Park,40.0065291,-75.1654827,way,1044598682
+Philadelphia,stadium,McCarthy Stadium,40.0372167,-75.153971,way,1104138026
+Philadelphia,museum,Philadelphia's Magic Gardens,39.9427346,-75.1594096,way,1130089100
+Philadelphia,museum,Grand Army of the Republic Civil War Museum & Archive,40.0426679,-75.0252904,way,1136988430
+Philadelphia,park,Joseph Deni Playground,40.0122652,-75.0921721,way,1157985021
+Philadelphia,park,Chestnut Hill Peace Park,40.0679789,-75.1973258,way,1183578643
+Philadelphia,park,WWI Memorial Park,40.0677204,-75.1970821,way,1183580240
+Philadelphia,park,The Children’s Park in Chestnut Hill - Jenks Playground,40.0746759,-75.2037883,way,1183581815
+Philadelphia,park,Nina Benson Cooke Park,40.0785819,-75.2077937,way,1183582687
+Philadelphia,park,Saylor's Grove,40.0298523,-75.1874613,way,1191898515
+Philadelphia,park,Basilica Green,39.9571461,-75.1688591,way,1204792300
+Philadelphia,park,Eakins Oval,39.9638392,-75.178567,way,1204792304
+Philadelphia,park,Binswanger Triangle,39.9628153,-75.1771855,way,1204792325
+Philadelphia,park,Rob Stuart Memorial Dog Park; Winter Street Greenway,39.9592185,-75.1747101,way,1204792328
+Philadelphia,park,Manayunk Gateway Park,40.016001,-75.209922,way,1213056385
+Philadelphia,park,Lauriston Pocket Park,40.0208655,-75.2043235,way,1213056388
+Philadelphia,park,Fountain Street Steps,40.0321015,-75.23297,way,1213056419
+Philadelphia,park,The Lawn at uCity Square,39.9574439,-75.1960793,way,1222051840
+Philadelphia,park,Germantown White House,40.0336622,-75.1723989,way,1302008335
+Philadelphia,park,Manton Green,39.9359035,-75.1719815,way,1308623361
+Philadelphia,park,Flagpole Park,39.9527446,-75.1428494,way,1317455920
+Philadelphia,stadium,Meiklejohn Stadium,39.9437525,-75.1938328,way,1340409771
+Philadelphia,park,Geary Park,39.9089561,-75.172732,way,1361532740
+Philadelphia,attraction,Rocky Steps,39.9649452,-75.1800796,way,1387913459
+Philadelphia,attraction,Benjamin Franklin Grave,39.9524491,-75.1482674,way,1415428867
+Philadelphia,park,Frankford and Solly Playground,40.0441939,-75.0211089,way,1425372368
+Philadelphia,park,Turtle Park,40.0330435,-75.2306486,way,1448439072
+Philadelphia,park,Independence National Historical Park,39.9498308,-75.1496361,way,1453315404
+Philadelphia,attraction,,40.0601386,-74.9890903,way,1464437466
+Philadelphia,stadium,Harpole Stadium,32.7740345,-89.1127483,way,1477877162
+Philadelphia,park,Logan Square,39.9580261,-75.1705854,way,1487845238
+Philadelphia,park,Independence Mall,39.951822,-75.1494062,way,1487847280
+Philadelphia,park,Friendship Park,40.0588739,-75.1897464,way,1489795083
+Philadelphia,park,Sedgwick Park,40.0571112,-75.1880177,way,1489795084
+Philadelphia,park,Freedom Park,40.0435369,-75.1812953,way,1490394587
+Philadelphia,museum,Calder Gardens,39.9599649,-75.174598,way,1493269799
+Philadelphia,park,Cat Park,39.9640036,-75.1892931,way,1497931745
+Philadelphia,university,La Salle University,40.0379956,-75.1573528,relation,2557183
+Philadelphia,park,Clarence H. Clark Park,39.9475028,-75.2099354,relation,2588200
+Philadelphia,university,University of Pennsylvania,39.9476972,-75.1936088,relation,2594845
+Philadelphia,park,Hawthorne Cultural Center,39.9384503,-75.1634896,relation,3924908
+Philadelphia,museum,American Swedish Historical Museum,39.9059532,-75.1810432,relation,4141515
+Philadelphia,university,University of Pennsylvania Carey Law School,39.9540487,-75.1927037,relation,5222454
+Philadelphia,museum,Penn Museum,39.9492817,-75.1912858,relation,5231601
+Philadelphia,university,Saint Joseph's University,39.9944527,-75.2427352,relation,6727337
+Philadelphia,park,East Fairmount Park,39.9911992,-75.1940275,relation,9798160
+Philadelphia,university,Thomas Jefferson University,39.9489114,-75.1568773,relation,10994286
+Philadelphia,park,Independence National Historical Park,39.9504303,-75.1491901,relation,11115686
+Philadelphia,park,Monkiewicz Playground,39.9826106,-75.099395,relation,12989584
+Philadelphia,park,Penn Treaty Park,39.9662144,-75.1286719,relation,13678142
+Philadelphia,park,Benjamin Rush State Park,40.1177474,-74.9820121,relation,13698656
+Philadelphia,university,La Salle University,40.0379956,-75.1573528,relation,13970298
+Philadelphia,park,Cobbs Creek Park,39.9492257,-75.2588549,relation,13986908
+Philadelphia,museum,Presbyterian Historical Society,39.9430595,-75.1499077,relation,15353868
+Philadelphia,attraction,Boathouse Row,39.9694256,-75.1874519,relation,15693769
+Philadelphia,park,Andorra Natural Area,40.0780498,-75.2336717,relation,16124135
+Philadelphia,park,Carpenter's Woods,40.0463604,-75.2012054,relation,16124524
+Philadelphia,university,Drexel University - Queen Lane Campus,40.0194525,-75.1799075,relation,16151679
+Philadelphia,park,West Fairmount Park,39.9867745,-75.2055049,relation,16277006
+Philadelphia,park,Benjamin Franklin Parkway,39.9624316,-75.1767434,relation,16277681
+Philadelphia,park,Shakespeare Park,39.9589187,-75.1711428,relation,16277682
+Philadelphia,park,Pennypack on the Delaware,40.0293707,-75.0126511,relation,16329036
+Philadelphia,park,Gorgas Park,40.0358685,-75.222172,relation,16431192
+Philadelphia,university,Drexel University,39.9569085,-75.1882798,relation,16683658
+Philadelphia,park,Spruce Street Harbor Park,39.9444394,-75.141458,relation,16691307
+Philadelphia,park,Philadelphia Vietnam War Memorial,39.9432485,-75.1430275,relation,16691489
+Philadelphia,park,I-95 Park,39.94189,-75.1433042,relation,16691490
+Philadelphia,park,Fernhill Park,40.0185522,-75.1675145,relation,17381907
+Philadelphia,park,Boone Park,40.0253639,-75.2181516,relation,18200514
+Philadelphia,park,Woodward Pines,40.0673266,-75.2030443,relation,18200515
+Philadelphia,park,Winston Park,40.0727086,-75.1993543,relation,18200516
+Philadelphia,park,Water Tower Recreation Center,40.0753594,-75.2013013,relation,18200517
+Philadelphia,university,Thomas Jefferson University East Falls Campus,40.0198908,-75.1927343,relation,18295194
+Philadelphia,park,Pennypack Park,40.0620308,-75.0458014,relation,18382716
+Philadelphia,park,Woodlands Playground,39.946294,-75.2051489,relation,18413139
+Philadelphia,university,Saint Joseph’s University in Philadelphia,39.9460451,-75.2066095,relation,18413141
+Philadelphia,park,Marconi Plaza,39.9154623,-75.1714095,relation,20166367
