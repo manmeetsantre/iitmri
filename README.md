@@ -119,3 +119,5 @@ Industry.* Twenty-fourth Americas Conference on Information Systems (AMCIS), New
 ---
 
 Built by Manmeet Santre, Research Intern, IIT Madras (2026).
+
+Guided by Prof. Vaibhav Chawla and Prof. Nargis Pervin, DoMS, IIT Madras.
