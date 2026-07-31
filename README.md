@@ -1,7 +1,7 @@
 # iitmri
 
-Research internship project at IIT Madras, extending the paper *Effect of Agglomeration
-in the Restaurant Industry* (Chidambaram and Pervin, AMCIS 2018).
+Research internship project at IIT Madras, based on the paper *Effect of Agglomeration
+in the Restaurant Industry* (AMCIS 2018).
 
 ## About the project
 
@@ -115,3 +115,7 @@ The full result tables and interpretation are in `new_variables/README.md` and t
 
 Chidambaram, K. V., and Pervin, N. (2018). *Effect of Agglomeration in the Restaurant
 Industry.* Twenty-fourth Americas Conference on Information Systems (AMCIS), New Orleans.
+
+---
+
+Prepared by Manmeet Santre, research intern, IIT Madras (2026).
