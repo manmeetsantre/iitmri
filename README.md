@@ -118,4 +118,4 @@ Industry.* Twenty-fourth Americas Conference on Information Systems (AMCIS), New
 
 ---
 
-Prepared by Manmeet Santre, research intern, IIT Madras (2026).
+Built by Manmeet Santre, Research Intern, IIT Madras (2026).
